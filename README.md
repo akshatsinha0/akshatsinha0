@@ -1,197 +1,157 @@
-<!-- Header with Banner -->
+<!-- Animated Fire Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Akshat%20Sinha&fontSize=80&fontAlignY=35&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff6b6b&height=250&section=header&text=Akshat%20Sinha&fontSize=80&fontColor=ffffff&animation=twinkling" />
 </div>
 
-<!-- Introduction -->
-<h1 align="center">👋 Hello World, I'm Akshat!</h1>
-<h3 align="center">A Computer Science undergrad passionate about Front-end Development</h3>
+<!-- Dynamic Intro -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=FF7F11&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Open-Source+Enthusiast;AI+Explorer;Code+Artisan" alt="Typing Animation" />
+</h1>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=akshatsinha0&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
+<!-- About Me -->
+## 🔥 About Me
 
-<!-- About Me Section -->
-## 🧑‍💻 About Me
+- 🎓 **B.Tech in Computer Science** @ VIT Vellore (CGPA: 8.79/10)
+- 🌱 Mastering **React.js**, **Node.js**, and **AI Prompt Engineering**
+- 🚀 Building real-time applications with **WebSockets** & **MERN Stack**
+- 💻 Strong foundation in **DSA** and **Competitive Programming**
+- 🏆 Winner of **Ideathon 2.0** (Blockchain-based content protection system)
 
-- 🎓 Currently pursuing **B.Tech in Computer Science** at **Vellore Institute of Technology, Vellore**
-- 🌱 Learning **React.js**, **Node.js**, and exploring **AI prompting**
-- 🚀 Enthusiast for **Java coding** and **Data Structures & Algorithms**
-- 🔭 Working on **HereIAm** - A real-time chat application
-- 🎯 Strong mathematical background with a focus on problem-solving
-
-<!-- Current Status -->
-## 🔍 Current Status
-
-- 🏫 Pre-final year at **VIT Vellore** with a CGPA of **8.79/10**
-- 📚 Taking courses in Operating Systems, Database Management Systems, and DSA
-- 🏆 Winner of **Ideathon 2.0** by Pixelate, VIT Vellore
-- 📝 Recently earned certifications in **Python** and **Problem Solving** from HackerRank
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=akshatsinha0&label=Profile%20views&color=ff6b6b&style=flat" alt="profile views" />
+</div>
 
 <!-- Tech Stack -->
-## 🛠️ Tech Stack
+## 🛠️ Tech Arsenal
 
 <div align="center">
-  
-### Programming Languages
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-</p>
 
-### Frontend Development
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-</p>
+### **Core Languages**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white&color=ff6b6b)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&color=ffd700)
 
-### Backend Development
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
-</p>
+### **Frontend Mastery**
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&color=00d8ff)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### Database & Tools
-<p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
-</p>
+### **Backend & Databases**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
-### Design
-<p>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
-</p>
+### **Tools & Cloud**
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
 
-<!-- Projects -->
-## 🚀 Projects
+<!-- Project Showcase -->
+## 🚀 Project Launchpad
 
-<div align="center">
 <table>
+  <!-- Row 1 -->
   <tr>
     <td width="50%">
-      <h3 align="center">Real-Time Chess Cheat Detection Engine</h3>
-      <div align="center">
-        <a href="#" target="_blank"><img src="https://media.giphy.com/media/l0HlTy9x8FZo0XO1i/giphy.gif" width="400" alt="Chess Project"/></a>
-        <p>
-          <a href="#" target="_blank">
-            <img src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=4AB197" />
-          </a>
-          <a href="#" target="_blank">
-            <img src="https://img.shields.io/badge/Library-TensorFlow-informational?style=flat&logo=tensorflow&logoColor=white&color=4AB197" />
-          </a>
-        </p>
-        <p>
-          A real-time chess cheat detection system integrated with Stockfish, OpenCV, TensorFlow, and Scikit-learn for anomaly detection. Built with Docker and MySQL for scaling.
-        </p>
-      </div>
+      <h3 align="center" style="color:#ff6b6b">Real-Time Chess AI</h3>
+      <a href="#">
+        <img src="https://media.giphy.com/media/l0HlTy9x8FZo0XO1i/giphy.gif" width="100%" />
+        <div style="background: linear-gradient(45deg, #ff6b6b, #ff8e8e); padding: 10px; border-radius: 8px; margin-top: -5px;">
+          <p style="color:white;">ML-powered detection system with TensorFlow & OpenCV integration</p>
+          <img src="https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=blue" />
+          <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+        </div>
+      </a>
     </td>
     <td width="50%">
-      <h3 align="center">Takes Takes Takes – Chess Game Website</h3>
-      <div align="center">
-        <a href="#" target="_blank"><img src="https://media.giphy.com/media/sULKEgDMX8LcI/giphy.gif" width="400" alt="Chess Website"/></a>
-        <p>
-          <a href="#" target="_blank">
-            <img src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=4AB197" />
-          </a>
-          <a href="#" target="_blank">
-            <img src="https://img.shields.io/badge/Tech-WebSockets-informational?style=flat&logo=socket.io&logoColor=white&color=4AB197" />
-          </a>
-        </p>
-        <p>
-          A sleek two-player chess website with real-time move synchronization using WebSockets. Features user authentication and game history tracking with MongoDB.
-        </p>
-      </div>
+      <h3 align="center" style="color:#ff6b6b">HereIAm Chat</h3>
+      <a href="#">
+        <img src="https://media.giphy.com/media/Pa6mgXJmrAHbvenVV1/giphy.gif" width="100%" />
+        <div style="background: linear-gradient(45deg, #00d8ff, #00a3cc); padding: 10px; border-radius: 8px; margin-top: -5px;">
+          <p style="color:white;">End-to-end encrypted messaging platform</p>
+          <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
+          <img src="https://img.shields.io/badge/JWT-000000?style=flat&logo=json-web-tokens&logoColor=white" />
+        </div>
+      </a>
     </td>
   </tr>
+  <!-- Row 2 -->
   <tr>
     <td width="50%">
-      <h3 align="center">HereIAm – Real-Time Chat Application</h3>
-      <div align="center">
-        <a href="#" target="_blank"><img src="https://media.giphy.com/media/Pa6mgXJmrAHbvenVV1/giphy.gif" width="400" alt="Chat App"/></a>
-        <p>
-          <a href="#" target="_blank">
-            <img src="https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=4AB197" />
-          </a>
-          <a href="#" target="_blank">
-            <img src="https://img.shields.io/badge/Tech-Node.js-informational?style=flat&logo=nodedotjs&logoColor=white&color=4AB197" />
-          </a>
-        </p>
-        <p>
-          A responsive chat application with private and group messaging using React, Node.js, Express, WebSockets, and MongoDB with JWT authentication.
-        </p>
-      </div>
+      <h3 align="center" style="color:#ff6b6b">Coding Club Portal</h3>
+      <a href="https://codingclubvitvellore.netlify.app/ClubWebsite">
+        <img src="https://media.giphy.com/media/hrRJ41JB2zlgZiYcCw/giphy.gif" width="100%" />
+        <div style="background: linear-gradient(45deg, #4EA94B, #2ECC71); padding: 10px; border-radius: 8px; margin-top: -5px;">
+          <p style="color:white;">Dynamic club website with Razorpay integration</p>
+          <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
+          <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white" />
+        </div>
+      </a>
     </td>
     <td width="50%">
-      <h3 align="center">Coding Club VIT Vellore App</h3>
-      <div align="center">
-        <a href="https://codingclubvitvellore.netlify.app/ClubWebsite" target="_blank"><img src="https://media.giphy.com/media/hrRJ41JB2zlgZiYcCw/giphy.gif" width="400" alt="Coding Club Website"/></a>
-        <p>
-          <a href="https://codingclubvitvellore.netlify.app/ClubWebsite" target="_blank">
-            <img src="https://img.shields.io/badge/Code-React.js-informational?style=flat&logo=react&logoColor=white&color=4AB197" />
-          </a>
-          <a href="https://codingclubvitvellore.netlify.app/ClubWebsite" target="_blank">
-            <img src="https://img.shields.io/badge/Style-Tailwind-informational?style=flat&logo=tailwindcss&logoColor=white&color=4AB197" />
-          </a>
-        </p>
-        <p>
-          A dynamic and responsive website for the Coding Club at VIT Vellore with interactive features, integrated with Unsplash API and Razorpay API for payments.
-        </p>
-      </div>
+      <h3 align="center" style="color:#ff6b6b">Movie Vault</h3>
+      <a href="#">
+        <img src="https://media.giphy.com/media/3o7aD2X9HxhzqwpZx6/giphy.gif" width="100%" />
+        <div style="background: linear-gradient(45deg, #E44C30, #FF6B6B); padding: 10px; border-radius: 8px; margin-top: -5px;">
+          <p style="color:white;">TMDB-powered movie dashboard</p>
+          <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
+          <img src="https://img.shields.io/badge/API-FFD43B?style=flat&logo=themoviedatabase&logoColor=blue" />
+        </div>
+      </a>
     </td>
   </tr>
 </table>
-</div>
 
-<!-- GitHub Stats -->
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akshatsinha0&show_icons=true&count_private=true&hide=issues&theme=radical" alt="GitHub Stats" />
-</div>
+<!-- Stats & Achievements -->
+## 📊 War Room
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akshatsinha0&theme=radical" alt="GitHub Streak" />
-</div>
-
-<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=akshatsinha0&show_icons=true&theme=radical&border_color=ff3864&include_all_commits=true" alt="Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akshatsinha0&theme=radical&border=ff3864&fire=FF7F11" alt="Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshatsinha0&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
-<!-- Certifications -->
-## 🎖️ Certifications
+<!-- Certifications & Awards -->
+## 🏆 Trophy Case
 
-- **Python (Basic)** - HackerRank (January 2024)
-- **Problem Solving (Basic)** - HackerRank (January 2024)
-- **Learn Python Like a Professional** - Udemy (July 2023)
+<div align="center">
+  <div style="display: inline-block; margin: 10px;">
+    <a href="https://www.hackerrank.com/certificates/">
+      <img src="https://img.shields.io/badge/HackerRank-Problem_Solving-2EC866?style=for-the-badge&logo=HackerRank&logoColor=black" />
+    </a>
+  </div>
+  <div style="display: inline-block; margin: 10px;">
+    <a href="https://www.udemy.com/certificate/">
+      <img src="https://img.shields.io/badge/Udemy-Python_Pro-EC5252?style=for-the-badge&logo=Udemy&logoColor=white" />
+    </a>
+  </div>
+</div>
 
-<!-- Connect With Me -->
-## 📫 Connect With Me
+- **Ideathon 2.0 Winner** - Blockchain-based content protection system
+- **HackerRank Certified** - Python & Problem Solving (Basic)
+- **ADG Web Team** - Contributor to HackBattle website development
+
+<!-- Connect -->
+## 🤝 Let's Ignite Ideas!
 
 <div align="center">
   <a href="mailto:akshat.sinha2022@vitstudent.ac.in">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <a href="https://linkedin.com/in/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://leetcode.com/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+  <a href="https://github.com/akshatsinha0">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </div>
 
-<!-- Footer -->
+<!-- Animated Footer -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff6b6b&height=150&section=footer&animation=twinkling" />
 </div>
