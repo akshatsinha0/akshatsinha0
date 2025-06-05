@@ -15,7 +15,7 @@
 ## 🧑‍💻 About Me
 
 - 🎓 Currently pursuing **B.Tech in Computer Science** at **Vellore Institute of Technology, Vellore**
-- 🌱 Learning **React.js**, **Node.js**, and exploring **AI prompting**
+- 🌱 Learning **React.js**, **Node.js**, **Vaadin**, and exploring **AI prompting**
 - 🚀 Enthusiast for **Java coding** and **Data Structures & Algorithms**
 - 🔭 Working on **HereIAm** - A real-time chat application
 - 🎯 Strong mathematical background with a focus on problem-solving
