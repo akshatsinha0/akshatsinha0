@@ -23,7 +23,7 @@
 <!-- Current Status -->
 ## 🔍 Current Status
 
-- 🏫 Predominantly Senior at **VIT Vellore** with a CGPA of **8.79/10**
+- 🏫 Predominantly Senior at **VIT Vellore** with a CGPA of **8.85/10**
 - 📚 Taking courses in Operating Systems, Database Management Systems, and DSA
 - 🏆 Winner of **Ideathon 2.0** by Pixelate, VIT Vellore
 - 📝 In the past, earned certifications in **Python** and **Problem Solving** from HackerRank
