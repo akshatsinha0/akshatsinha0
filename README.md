@@ -4,36 +4,38 @@
 </div>
 
 <!-- Introduction -->
-<h1 align="center">👋 Hello World, I'm Akshat!</h1>
-<h3 align="center">A Computer Science undergrad passionate about Front-end Development</h3>
+<h1 align="center">
+  <img src="https://twemoji.maxcdn.com/v/latest/svg/1f44b.svg" width="30" /> Hello World, I'm Akshat! :sparkles:
+</h1>
+<h3 align="center">💻 A Computer Science undergrad passionate about Front-end Development</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=akshatsinha0&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 <!-- About Me Section -->
-## 🧑‍💻 About Me
+## 🧑‍🚀 About Me
 
 - 🎓 Currently pursuing **B.Tech in Computer Science** at **Vellore Institute of Technology, Vellore**
 - 🌱 Learning **React.js**, **Node.js**, **Vaadin**, and exploring **AI prompting**
 - 🚀 Enthusiast for **Java coding** and **Data Structures & Algorithms**
-- 🔭 Working on **HereIAm** - A real-time chat application
-- 🎯 Strong mathematical background with a focus on problem-solving
+- 🔭 Working on **HereIAm** – A real-time chat application <img src="https://openmoji.org/data/color/svg/1F4AC.svg" width="20" />
+- 🎯 Strong mathematical background with a focus on problem-solving :abacus:
 
 <!-- Current Status -->
 ## 🔍 Current Status
 
 - 🏫 Predominantly Senior at **VIT Vellore** with a CGPA of **8.85/10**
-- 📚 Taking courses in Operating Systems, Database Management Systems, and DSA
-- 🏆 Winner of **Ideathon 2.0** by Pixelate, VIT Vellore
-- 📝 In the past, earned certifications in **Python** and **Problem Solving** from HackerRank
+- 📚 Taking courses in **Operating Systems**, **Database Management Systems**, and **DSA**
+- 🏆 Winner of **Ideathon 2.0** by Pixelate, VIT Vellore :trophy:
+- 📝 Earned certifications in **Python** and **Problem Solving** from HackerRank :medal_military:
 
 <!-- Tech Stack -->
 ## 🛠️ Tech Stack
 
 <div align="center">
   
-### Programming Languages
+### :keyboard: Programming Languages
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -41,7 +43,7 @@
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
 </p>
 
-### Frontend Development
+### 🎨 Frontend Development
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
@@ -49,13 +51,13 @@
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
 </p>
 
-### Backend Development
+### ⚙️ Backend Development
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
 </p>
 
-### Database & Tools
+### 🗄️ Database & Tools
 <p>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
@@ -63,7 +65,7 @@
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
 </p>
 
-### Design
+### 🎨 Design
 <p>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
@@ -72,13 +74,13 @@
 </div>
 
 <!-- Projects -->
-## 🚀 Projects
+## 🚀 Projects <img src="https://twemoji.maxcdn.com/v/latest/svg/2728.svg" width="20" />
 
 <div align="center">
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">Real-Time Chess Cheat Detection Engine</h3>
+      <h3 align="center">♟️ Real-Time Chess Cheat Detection Engine</h3>
       <div align="center">
         <a href="#" target="_blank"><img src="https://media.giphy.com/media/l0HlTy9x8FZo0XO1i/giphy.gif" width="400" alt="Chess Project"/></a>
         <p>
@@ -95,7 +97,7 @@
       </div>
     </td>
     <td width="50%">
-      <h3 align="center">Takes Takes Takes – Chess Game Website</h3>
+      <h3 align="center">:chess_pawn: Takes Takes Takes – Chess Game Website</h3>
       <div align="center">
         <a href="#" target="_blank"><img src="https://media.giphy.com/media/sULKEgDMX8LcI/giphy.gif" width="400" alt="Chess Website"/></a>
         <p>
@@ -114,7 +116,7 @@
   </tr>
   <tr>
     <td width="50%">
-      <h3 align="center">HereIAm – Real-Time Chat Application</h3>
+      <h3 align="center">💬 HereIAm – Real-Time Chat Application</h3>
       <div align="center">
         <a href="#" target="_blank"><img src="https://media.giphy.com/media/Pa6mgXJmrAHbvenVV1/giphy.gif" width="400" alt="Chat App"/></a>
         <p>
@@ -131,7 +133,7 @@
       </div>
     </td>
     <td width="50%">
-      <h3 align="center">Coding Club VIT Vellore App</h3>
+      <h3 align="center">👨‍💻 Coding Club VIT Vellore App</h3>
       <div align="center">
         <a href="https://codingclubvitvellore.netlify.app/ClubWebsite" target="_blank"><img src="https://media.giphy.com/media/hrRJ41JB2zlgZiYcCw/giphy.gif" width="400" alt="Coding Club Website"/></a>
         <p>
@@ -167,14 +169,14 @@
 </div>
 
 <!-- Certifications -->
-## 🎖️ Certifications
+## 🏅 Certifications
 
-- **Python (Basic)** - HackerRank (January 2024)
-- **Problem Solving (Basic)** - HackerRank (January 2024)
-- **Learn Python Like a Professional** - Udemy (July 2023)
+- **Python (Basic)** – HackerRank (January 2024) :snake:
+- **Problem Solving (Basic)** – HackerRank (January 2024) :brain:
+- **Learn Python Like a Professional** – Udemy (July 2023) :books:
 
 <!-- Connect With Me -->
-## 📫 Connect With Me
+## 📫 Connect With Me :handshake:
 
 <div align="center">
   <a href="mailto:akshat.sinha2022@vitstudent.ac.in">
