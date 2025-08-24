@@ -7,7 +7,7 @@
 <h1 align="center">
   <img src="https://twemoji.maxcdn.com/v/latest/svg/1f44b.svg" width="30" /> Hello World, I'm Akshat! :sparkles:
 </h1>
-<h3 align="center">💻 A Computer Science undergrad passionate about Front-end Development</h3>
+<h3 align="center">A Computer Science undergrad passionate about Front-end Development</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=akshatsinha0&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
@@ -16,22 +16,19 @@
 <!-- About Me Section -->
 ## 🧑‍🚀 About Me
 
-- 🎓 Currently pursuing **B.Tech in Computer Science** at **Vellore Institute of Technology, Vellore**
-- 🌱 Learning **React.js**, **Node.js**, **Vaadin**, and exploring **AI prompting**
-- 🚀 Enthusiast for **Java coding** and **Data Structures & Algorithms**
-- 🔭 Working on **HereIAm** – A real-time chat application <img src="https://openmoji.org/data/color/svg/1F4AC.svg" width="20" />
-- 🎯 Strong mathematical background with a focus on problem-solving :abacus:
+- Currently pursuing **B.Tech in Computer Science** at **Vellore Institute of Technology, Vellore**
+- Learning **React.js**, **Node.js**, **Vaadin**, and exploring **AI prompting**
+- Enthusiast for **Java coding** and **Data Structures & Algorithms**
+- Strong mathematical background with a focus on problem-solving :abacus:
 
 <!-- Current Status -->
-## 🔍 Current Status
+## Current Status
 
-- 🏫 Predominantly Senior at **VIT Vellore** with a CGPA of **8.85/10**
-- 📚 Taking courses in **Operating Systems**, **Database Management Systems**, and **DSA**
-- 🏆 Winner of **Ideathon 2.0** by Pixelate, VIT Vellore :trophy:
-- 📝 Earned certifications in **Python** and **Problem Solving** from HackerRank :medal_military:
+- Predominantly Senior at **VIT Vellore** with a CGPA of **8.85/10**
+- Taking courses in **Operating Systems**, **Database Management Systems**, and **DSA**
 
 <!-- Tech Stack -->
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
   
@@ -43,7 +40,7 @@
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
 </p>
 
-### 🎨 Frontend Development
+### Frontend Development
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
@@ -51,13 +48,13 @@
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
 </p>
 
-### ⚙️ Backend Development
+### Backend Development
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
 </p>
 
-### 🗄️ Database & Tools
+### Database & Tools
 <p>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
@@ -74,7 +71,7 @@
 </div>
 
 <!-- Projects -->
-## 🚀 Projects <img src="https://twemoji.maxcdn.com/v/latest/svg/2728.svg" width="20" />
+## Projects <img src="https://twemoji.maxcdn.com/v/latest/svg/2728.svg" width="20" />
 
 <div align="center">
 <table>
@@ -154,7 +151,7 @@
 </div>
 
 <!-- GitHub Stats -->
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=akshatsinha0&show_icons=true&count_private=true&hide=issues&theme=radical" alt="GitHub Stats" />
@@ -176,7 +173,7 @@
 - **Learn Python Like a Professional** – Udemy (July 2023) :books:
 
 <!-- Connect With Me -->
-## 📫 Connect With Me :handshake:
+## Connect With Me :handshake:
 
 <div align="center">
   <a href="mailto:akshat.sinha2022@vitstudent.ac.in">
