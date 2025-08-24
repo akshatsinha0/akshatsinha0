@@ -5,7 +5,7 @@
 
 <!-- Introduction -->
 <h1 align="center">
-  <img src="https://twemoji.maxcdn.com/v/latest/svg/1f44b.svg" width="30" /> Hello World, I'm Akshat! :sparkles:
+  <img src="https://twemoji.maxcdn.com/v/latest/svg/1f44b.svg" width="30" /> Hello Yahh, Iam Akshat! :sparkles:
 </h1>
 <h3 align="center">A Computer Science undergrad passionate about Front-end Development</h3>
 
