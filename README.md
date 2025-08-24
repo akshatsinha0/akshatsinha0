@@ -14,7 +14,7 @@
 </p>
 
 <!-- About Me Section -->
-## 🧑‍🚀 About Me
+## About Me
 
 - Currently pursuing **B.Tech in Computer Science** at **Vellore Institute of Technology, Vellore**
 - Learning **React.js**, **Node.js**, **Vaadin**, and exploring **AI prompting**
@@ -62,7 +62,7 @@
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
 </p>
 
-### 🎨 Design
+### Design
 <p>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
@@ -106,14 +106,14 @@
           </a>
         </p>
         <p>
-          A sleek two-player chess website with real-time move synchronization using WebSockets. Features user authentication and game history tracking with MongoDB.
+          A two-player chess website with real-time move synchronization using WebSockets. Features user authentication and game history tracking with MongoDB.
         </p>
       </div>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <h3 align="center">💬 HereIAm – Real-Time Chat Application</h3>
+      <h3 align="center">HereIAm – Real-Time Chat Application</h3>
       <div align="center">
         <a href="#" target="_blank"><img src="https://media.giphy.com/media/Pa6mgXJmrAHbvenVV1/giphy.gif" width="400" alt="Chat App"/></a>
         <p>
@@ -130,7 +130,7 @@
       </div>
     </td>
     <td width="50%">
-      <h3 align="center">👨‍💻 Coding Club VIT Vellore App</h3>
+      <h3 align="center">Coding Club VIT Vellore App</h3>
       <div align="center">
         <a href="https://codingclubvitvellore.netlify.app/ClubWebsite" target="_blank"><img src="https://media.giphy.com/media/hrRJ41JB2zlgZiYcCw/giphy.gif" width="400" alt="Coding Club Website"/></a>
         <p>
@@ -166,7 +166,7 @@
 </div>
 
 <!-- Certifications -->
-## 🏅 Certifications
+## Certifications
 
 - **Python (Basic)** – HackerRank (January 2024) :snake:
 - **Problem Solving (Basic)** – HackerRank (January 2024) :brain:
