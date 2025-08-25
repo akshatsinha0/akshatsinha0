@@ -165,13 +165,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshatsinha0&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
-<!-- Certifications -->
-## Certifications
-
-- **Python (Basic)** – HackerRank (January 2024) :snake:
-- **Problem Solving (Basic)** – HackerRank (January 2024) :brain:
-- **Learn Python Like a Professional** – Udemy (July 2023) :books:
-
 <!-- Connect With Me -->
 ## Connect With Me :handshake:
 
