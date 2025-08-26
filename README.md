@@ -57,13 +57,13 @@
 </div>
 
 <!-- Projects -->
-<h2><samp>Projects ✨</samp></h2>
+<h2><samp>Projects</samp></h2>
 
 <div align="center">
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center"><samp>♟️ Real-Time Chess Cheat Detection Engine</samp></h3>
+      <h3 align="center"><samp>Chess Cheat Detection Engine</samp></h3>
       <div align="center">
         <a href="#" target="_blank"><img src="https://media.giphy.com/media/l0HlTy9x8FZo0XO1i/giphy.gif" width="400" alt="Chess Project"/></a>
         <p>
@@ -80,7 +80,7 @@
       </div>
     </td>
     <td width="50%">
-      <h3 align="center"><samp>♟️ Takes Takes Takes – Chess Game Website</samp></h3>
+      <h3 align="center"><samp>Takes Takes Takes – Chess Game Website</samp></h3>
       <div align="center">
         <a href="#" target="_blank"><img src="https://media.giphy.com/media/sULKEgDMX8LcI/giphy.gif" width="400" alt="Chess Website"/></a>
         <p>
