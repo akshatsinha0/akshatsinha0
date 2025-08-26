@@ -5,7 +5,7 @@
 
 <!-- Introduction -->
 <h1 align="center">
-  <img src="https://twemoji.maxcdn.com/v/latest/svg/1f44b.svg" width="30" /> Hello Yahh, Iam Akshat! :sparkles:
+  Hello Yahh, Iam Akshat!
 </h1>
 <h3 align="center">Serif for building.....</h3>
 
