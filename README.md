@@ -7,25 +7,11 @@
 <h1 align="center">
   <img src="https://twemoji.maxcdn.com/v/latest/svg/1f44b.svg" width="30" /> Hello Yahh, Iam Akshat! :sparkles:
 </h1>
-<h3 align="center">A Computer Science undergrad passionate about Front-end Development</h3>
+<h3 align="center">Serif for building.....</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=akshatsinha0&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
-
-<!-- About Me Section -->
-## About Me
-
-- Currently pursuing **B.Tech in Computer Science** at **Vellore Institute of Technology, Vellore**
-- Learning **React.js**, **Node.js**, **Vaadin**, and exploring **AI prompting**
-- Enthusiast for **Java coding** and **Data Structures & Algorithms**
-- Strong mathematical background with a focus on problem-solving :abacus:
-
-<!-- Current Status -->
-## Current Status
-
-- Predominantly Senior at **VIT Vellore** with a CGPA of **8.85/10**
-- Taking courses in **Operating Systems**, **Database Management Systems**, and **DSA**
 
 <!-- Tech Stack -->
 ## Tech Stack
