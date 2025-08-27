@@ -65,7 +65,9 @@
   <div style="flex:1 1 300px; max-width:480px; padding:2px; border-radius:18px; background:linear-gradient(135deg, #7c4dff, #00e5ff);">
     <div style="background:#0b1220; border-radius:16px; padding:16px; color:#d8e1ff;">
       <h3 align="center"><samp>Chess Cheat Detection Engine</samp></h3>
-      <a href="#"><img src="https://media.giphy.com/media/l0HlTy9x8FZo0XO1i/giphy.gif" alt="Chess Project" style="width:100%; border-radius:12px;" /></a>
+      <a href="https://github.com/akshatsinha0/chess-cheat-detect.git" target="_blank" rel="noopener noreferrer">
+        <img src="https://media.giphy.com/media/l0HlTy9x8FZo0XO1i/giphy.gif" alt="Chess Project" style="width:100%; border-radius:12px;" />
+      </a>
       <p align="center">
         <img src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=4AB197" />
         <img src="https://img.shields.io/badge/Library-TensorFlow-informational?style=flat&logo=tensorflow&logoColor=white&color=4AB197" />
@@ -78,7 +80,9 @@
   <div style="flex:1 1 300px; max-width:480px; padding:2px; border-radius:18px; background:linear-gradient(135deg, #ff6ec4, #7873f5);">
     <div style="background:#0b1220; border-radius:16px; padding:16px; color:#d8e1ff;">
       <h3 align="center"><samp>Takes Takes Takes – Chess Game Website</samp></h3>
-      <a href="#"><img src="https://media.giphy.com/media/sULKEgDMX8LcI/giphy.gif" alt="Chess Website" style="width:100%; border-radius:12px;" /></a>
+      <a href="https://github.com/akshatsinha0/takestakestakes-chessified.git" target="_blank" rel="noopener noreferrer">
+        <img src="https://media.giphy.com/media/sULKEgDMX8LcI/giphy.gif" alt="Chess Website" style="width:100%; border-radius:12px;" />
+      </a>
       <p align="center">
         <img src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=4AB197" />
         <img src="https://img.shields.io/badge/Tech-WebSockets-informational?style=flat&logo=socket.io&logoColor=white&color=4AB197" />
@@ -91,7 +95,9 @@
   <div style="flex:1 1 300px; max-width:480px; padding:2px; border-radius:18px; background:linear-gradient(135deg, #00d2ff, #3a7bd5);">
     <div style="background:#0b1220; border-radius:16px; padding:16px; color:#d8e1ff;">
       <h3 align="center"><samp>HereIAm – Real-Time Chat Application</samp></h3>
-      <a href="#"><img src="https://media.giphy.com/media/Pa6mgXJmrAHbvenVV1/giphy.gif" alt="Chat App" style="width:100%; border-radius:12px;" /></a>
+      <a href="https://github.com/akshatsinha0/Imp-Here-I-Am.git" target="_blank" rel="noopener noreferrer">
+        <img src="https://media.giphy.com/media/Pa6mgXJmrAHbvenVV1/giphy.gif" alt="Chat App" style="width:100%; border-radius:12px;" />
+      </a>
       <p align="center">
         <img src="https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=4AB197" />
         <img src="https://img.shields.io/badge/Tech-Node.js-informational?style=flat&logo=nodedotjs&logoColor=white&color=4AB197" />
