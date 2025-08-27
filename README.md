@@ -114,7 +114,7 @@
           A responsive chat application with private and group messaging using React, Node.js, Express, WebSockets, and MongoDB with JWT authentication.
         </samp></p>
       </div>
-    </td>
+<!--     </td>
     <td width="50%">
       <h3 align="center"><samp>Coding Club VIT Vellore App</samp></h3>
       <div align="center">
@@ -131,7 +131,7 @@
           A dynamic and responsive website for the Coding Club at VIT Vellore with interactive features, integrated with Unsplash API and Razorpay API for payments.
         </samp></p>
       </div>
-    </td>
+    </td> -->
   </tr>
 </table>
 </div>
