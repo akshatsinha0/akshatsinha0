@@ -148,9 +148,9 @@
 </div>
 
 <!-- Dev Quote -->
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote"/>
-</div>
+
+  ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula&quote=The%20disguise%20of%20you%20lies%20beforth%20your%20own%20surmise&author=Akshat%20Sinha)
+
 
 <!-- Contact -->
 <h2><samp>Basic deeds</samp></h2>
