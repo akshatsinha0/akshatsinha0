@@ -10,41 +10,50 @@ ic<!-- Header with Banner -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=akshatsinha0&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
+
 <!-- Tech Stack -->
 <h2><samp>Tech Stack</samp></h2>
+<!-- 3D-style icons courtesy of Icons8 where available -->
 <div align="center">
+
 <h3><samp>⌨️ Programming Languages</samp></h3>
 <p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.icons8.com/color/64/java-coffee-cup-logo.png" alt="Java" style="margin:8px;" />
+  <img src="https://img.icons8.com/color/64/python--v1.png" alt="Python" style="margin:8px;" />
+  <img src="https://img.icons8.com/color/64/c-plus-plus-logo.png" alt="C++" style="margin:8px;" />
+  <img src="https://img.icons8.com/color/64/c-programming.png" alt="C" style="margin:8px;" />
 </p>
+
 <h3><samp>Frontend Development</samp></h3>
 <p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.icons8.com/color/64/html-5--v1.png" alt="HTML5" style="margin:8px;" />
+  <img src="https://img.icons8.com/color/64/css3.png" alt="CSS3" style="margin:8px;" />
+  <img src="https://img.icons8.com/color/64/javascript--v1.png" alt="JavaScript" style="margin:8px;" />
+  <img src="https://img.icons8.com/color/64/react-native.png" alt="React" style="margin:8px;" />
 </p>
+
 <h3><samp>Backend Development</samp></h3>
 <p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+  <img src="https://img.icons8.com/color/64/nodejs.png" alt="Node.js" style="margin:8px;" />
+  <!-- Fallback icon for Express.js (no 3D variant widely available) -->
+  <img src="https://skillicons.dev/icons?i=express" height="48" alt="Express.js" style="margin:8px;vertical-align:middle;" />
 </p>
+
 <h3><samp>Database & Tools</samp></h3>
 <p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+  <img src="https://img.icons8.com/color/64/mysql-logo.png" alt="MySQL" style="margin:8px;" />
+  <img src="https://img.icons8.com/color/64/mongodb.png" alt="MongoDB" style="margin:8px;" />
+  <img src="https://img.icons8.com/color/64/git.png" alt="Git" style="margin:8px;" />
+  <img src="https://img.icons8.com/color/64/amazon-web-services.png" alt="AWS" style="margin:8px;" />
 </p>
+
 <h3><samp>Design</samp></h3>
 <p>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
+  <img src="https://img.icons8.com/color/64/figma--v1.png" alt="Figma" style="margin:8px;" />
+  <img src="https://img.icons8.com/color/64/canva.png" alt="Canva" style="margin:8px;" />
 </p>
 </div>
+
 <!-- Projects -->
 <h2><samp>Projects</samp></h2>
 <div align="center">
@@ -106,6 +115,7 @@ ic<!-- Header with Banner -->
   </tr>
 </table>
 </div>
+
 <!-- GitHub Stats -->
 <h2><samp>GitHub Stats</samp></h2>
 <div align="center">
@@ -117,6 +127,7 @@ ic<!-- Header with Banner -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshatsinha0&layout=compact&theme=radical" alt="Top Languages" />
 </div>
+
 <!-- Connect With Me -->
 <h2><samp>Basic deeds</samp></h2>
 <div align="center">
@@ -133,6 +144,7 @@ ic<!-- Header with Banner -->
     <img src="https://skillicons.dev/icons?i=leetcode" height="36" alt="LeetCode"/>
   </a>
 </div>
+
 <!-- Footer -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
