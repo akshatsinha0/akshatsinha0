@@ -103,23 +103,6 @@ ic<!-- Header with Banner -->
         </samp></p>
       </div>
     </td>
-    <td width="50%">
-      <h3 align="center"><samp>Coding Club VIT Vellore App</samp></h3>
-      <div align="center">
-        <a href="https://codingclubvitvellore.netlify.app/ClubWebsite" target="\_blank"><img src="https://media.giphy.com/media/hrRJ41JB2zlgZiYcCw/giphy.gif" width="400" alt="Coding Club Website"/></a>
-        <p>
-          <a href="https://codingclubvitvellore.netlify.app/ClubWebsite" target="\_blank">
-            <img src="https://img.shields.io/badge/Code-React.js-informational?style=flat&logo=react&logoColor=white&color=4AB197" />
-          </a>
-          <a href="https://codingclubvitvellore.netlify.app/ClubWebsite" target="\_blank">
-            <img src="https://img.shields.io/badge/Style-Tailwind-informational?style=flat&logo=tailwindcss&logoColor=white&color=4AB197" />
-          </a>
-        </p>
-        <p><samp>
-          A dynamic and responsive website for the Coding Club at VIT Vellore with interactive features, integrated with Unsplash API and Razorpay API for payments.
-        </samp></p>
-      </div>
-    </td>
   </tr>
 </table>
 </div>
