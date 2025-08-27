@@ -62,7 +62,7 @@
 <div align="center" style="display:flex; flex-wrap:wrap; gap:20px; justify-content:center;">
 
   <!-- Project Card 1 -->
-  <div style="width:480px; max-width:100%; padding:2px; border-radius:18px; background:linear-gradient(135deg, #7c4dff, #00e5ff);">
+  <div style="flex:1 1 300px; max-width:480px; padding:2px; border-radius:18px; background:linear-gradient(135deg, #7c4dff, #00e5ff);">
     <div style="background:#0b1220; border-radius:16px; padding:16px; color:#d8e1ff;">
       <h3 align="center"><samp>Chess Cheat Detection Engine</samp></h3>
       <a href="#"><img src="https://media.giphy.com/media/l0HlTy9x8FZo0XO1i/giphy.gif" alt="Chess Project" style="width:100%; border-radius:12px;" /></a>
@@ -75,7 +75,7 @@
   </div>
 
   <!-- Project Card 2 -->
-  <div style="width:480px; max-width:100%; padding:2px; border-radius:18px; background:linear-gradient(135deg, #ff6ec4, #7873f5);">
+  <div style="flex:1 1 300px; max-width:480px; padding:2px; border-radius:18px; background:linear-gradient(135deg, #ff6ec4, #7873f5);">
     <div style="background:#0b1220; border-radius:16px; padding:16px; color:#d8e1ff;">
       <h3 align="center"><samp>Takes Takes Takes – Chess Game Website</samp></h3>
       <a href="#"><img src="https://media.giphy.com/media/sULKEgDMX8LcI/giphy.gif" alt="Chess Website" style="width:100%; border-radius:12px;" /></a>
@@ -88,7 +88,7 @@
   </div>
 
   <!-- Project Card 3 -->
-  <div style="width:480px; max-width:100%; padding:2px; border-radius:18px; background:linear-gradient(135deg, #00d2ff, #3a7bd5);">
+  <div style="flex:1 1 300px; max-width:480px; padding:2px; border-radius:18px; background:linear-gradient(135deg, #00d2ff, #3a7bd5);">
     <div style="background:#0b1220; border-radius:16px; padding:16px; color:#d8e1ff;">
       <h3 align="center"><samp>HereIAm – Real-Time Chat Application</samp></h3>
       <a href="#"><img src="https://media.giphy.com/media/Pa6mgXJmrAHbvenVV1/giphy.gif" alt="Chat App" style="width:100%; border-radius:12px;" /></a>
@@ -99,6 +99,7 @@
       <p><samp>A responsive chat application with private/group messaging using React, Node.js, Express, WebSockets, and MongoDB with JWT authentication.</samp></p>
     </div>
   </div>
+
 </div>
 
 <!-- GitHub Stats -->
