@@ -29,7 +29,7 @@
 </div>
 
 <!-- Tech Stack -->
-<h2><samp>Tech Stack</samp></h2>
+<h2><samp>Techs</samp></h2>
 <div align="center">
 
   <h3><samp>⌨️ Programming</samp></h3>
