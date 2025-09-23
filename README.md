@@ -22,6 +22,15 @@
   </a>
 </p>
 
+<!-- Now -->
+<h2><samp>Now</samp></h2>
+
+<!-- Signals -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Hobby-Chess-8A2BE2?style=for-the-badge" alt="Hobby: Chess"/>
+  <img src="https://img.shields.io/badge/Loves-Open%20Source-FF69B4?style=for-the-badge" alt="Loves: Open Source"/>
+</p>
+
 <!-- Social/Links -->
 <div align="center">
   <a href="mailto:akshat.sinha2022@vitstudent.ac.in" title="Email"><img src="https://skillicons.dev/icons?i=gmail" height="32"/></a>
@@ -137,6 +146,14 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=akshatsinha0&theme=react-dark&hide_border=true" alt="Activity Graph"/>
 </div>
 
+<!-- Extra Metrics -->
+<details>
+  <summary><samp>Extra metrics</samp></summary>
+  <div align="center">
+    <img src="https://metrics.lecoq.io/akshatsinha0?template=classic&base.header=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&notable=1&config.timezone=Asia%2FKolkata" alt="Metrics"/>
+  </div>
+</details>
+
 <!-- LeetCode Card -->
 <div align="center">
   <img src="https://leetcard.jacoblin.cool/akshatsinha0?theme=dark&font=Nunito&ext=heatmap" alt="LeetCode Stats"/>
@@ -144,8 +161,12 @@
 
 <!-- Dev Quote -->
 
-  ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula&quote=The%20disguise%20of%20you%20lies%20beforth%20your%20own%20surmise&author=Akshat%20Sinha)
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula&quote=The%20diguise%20of%20you%20lies%20before%20your%20own%20surmise)
 
+<!-- Dev Joke -->
+<div align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=dracula" alt="Jokes Card"/>
+</div>
 
 <!-- Contact -->
 <h2><samp>Basic deeds</samp></h2>
