@@ -135,7 +135,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=akshatsinha0&show_icons=true&count_private=true&hide=issues&theme=radical" alt="GitHub stats"/>
 </div>
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akshatsinha0&theme=radical" alt="Streak stats"/>
+  <img src="https://streak-stats.demolab.com?user=akshatsinha0&theme=radical" alt="Streak stats"/>
 </div>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshatsinha0&layout=compact&theme=radical" alt="Top languages"/>
