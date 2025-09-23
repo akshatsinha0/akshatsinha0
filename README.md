@@ -73,53 +73,46 @@
 
 <!-- Highlight Projects -->
 <h2><samp>Projects</samp></h2>
-<div align="center" style="display:flex;flex-wrap:wrap;gap:20px;justify-content:center;">
-
-  <!-- Project Card 1 -->
-  <div style="flex:1 1 300px;max-width:480px;padding:2px;border-radius:18px;background:linear-gradient(135deg,#7c4dff,#00e5ff);">
-    <div style="background:#0b1220;border-radius:16px;padding:16px;color:#d8e1ff;">
+<table>
+  <tr>
+    <td width="50%">
       <h3 align="center"><samp>Chess Cheat Detection Engine</samp></h3>
       <a href="https://github.com/akshatsinha0/chess-cheat-detect" target="_blank" rel="noopener noreferrer">
-        <img src="https://media.giphy.com/media/l0HlTy9x8FZo0XO1i/giphy.gif" alt="Chess Project" style="width:100%;border-radius:12px;"/>
+        <img src="https://media.giphy.com/media/l0HlTy9x8FZo0XO1i/giphy.gif" alt="Chess Project" width="100%"/>
       </a>
       <p align="center">
         <img src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=4AB197"/>
         <img src="https://img.shields.io/badge/Library-TensorFlow-informational?style=flat&logo=tensorflow&logoColor=white&color=4AB197"/>
       </p>
       <p><samp>Real‑time chess cheat detection with Stockfish, OpenCV, and TensorFlow. Dockerized with MySQL.</samp></p>
-    </div>
-  </div>
-
-  <!-- Project Card 2 -->
-  <div style="flex:1 1 300px;max-width:480px;padding:2px;border-radius:18px;background:linear-gradient(135deg,#ff6ec4,#7873f5);">
-    <div style="background:#0b1220;border-radius:16px;padding:16px;color:#d8e1ff;">
+    </td>
+    <td width="50%">
       <h3 align="center"><samp>Takes Takes Takes – Chess Game Website</samp></h3>
       <a href="https://github.com/akshatsinha0/takestakestakes-chessified" target="_blank" rel="noopener noreferrer">
-        <img src="https://media.giphy.com/media/sULKEgDMX8LcI/giphy.gif" alt="Chess Website" style="width:100%;border-radius:12px;"/>
+        <img src="https://media.giphy.com/media/sULKEgDMX8LcI/giphy.gif" alt="Chess Website" width="100%"/>
       </a>
       <p align="center">
         <img src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=4AB197"/>
         <img src="https://img.shields.io/badge/Tech-WebSockets-informational?style=flat&logo=socket.io&logoColor=white&color=4AB197"/>
       </p>
       <p><samp>Two‑player chess with real‑time sync, auth, and game history via MongoDB.</samp></p>
-    </div>
-  </div>
-
-  <!-- Project Card 3 -->
-  <div style="flex:1 1 300px;max-width:480px;padding:2px;border-radius:18px;background:linear-gradient(135deg,#00d2ff,#3a7bd5);">
-    <div style="background:#0b1220;border-radius:16px;padding:16px;color:#d8e1ff;">
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
       <h3 align="center"><samp>HereIAm – Real‑Time Chat Application</samp></h3>
       <a href="https://github.com/akshatsinha0/Imp-Here-I-Am" target="_blank" rel="noopener noreferrer">
-        <img src="https://media.giphy.com/media/Pa6mgXJmrAHbvenVV1/giphy.gif" alt="Chat App" style="width:100%;border-radius:12px;"/>
+        <img src="https://media.giphy.com/media/Pa6mgXJmrAHbvenVV1/giphy.gif" alt="Chat App" width="100%"/>
       </a>
       <p align="center">
         <img src="https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=4AB197"/>
         <img src="https://img.shields.io/badge/Tech-Node.js-informational?style=flat&logo=nodedotjs&logoColor=white&color=4AB197"/>
       </p>
       <p><samp>Responsive chat with private/group messaging using React+Node+WebSockets+MongoDB.</samp></p>
-    </div>
-  </div>
-</div>
+    </td>
+    <td width="50%"></td>
+  </tr>
+</table>
 
 <!-- Pinned Repo Cards -->
 <div align="center">
