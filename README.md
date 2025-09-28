@@ -8,7 +8,7 @@
 <!-- Typing Intro -->
 <div align="center">
   <a href="https://git.io/typing-svg" target="_blank" rel="noopener noreferrer">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&amp;weight=600&amp;pause=1200&amp;color=00E5FF&amp;center=true&amp;vCenter=true&amp;width=900&amp;lines=Senior-self+noMansLand+%7C+Eminent+position;Back-led+by+your+trueColors;Learning+systems%2C+design%2C+and+frontend+dev+with+breakFormat" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&amp;weight=600&amp;pause=1200&amp;color=00E5FF&amp;center=true&amp;vCenter=true&amp;width=900&aQmp;lines=Senior-self+noMansLand+%7C+Eminent+position;Back-led+by+your+trueColors;Learning+systems%2C+design%2C+and+frontend+dev+with+breakFormat" alt="Typing SVG"/>
   </a>
 </div>
 
@@ -141,9 +141,22 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshatsinha0&layout=compact&theme=radical" alt="Top languages"/>
 </div>
 
+<!-- WakaTime -->
+<h2><samp>WakaTime</samp></h2>
+<div align="center">
+  <a href="https://wakatime.com/@akshatsinha0" target="_blank" rel="noopener noreferrer">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=akshatsinha0&layout=compact&hide_title=true&theme=radical" alt="WakaTime Stats"/>
+  </a>
+</div>
+
 <!-- Activity Graph -->
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=akshatsinha0&theme=react-dark&hide_border=true" alt="Activity Graph"/>
+</div>
+
+<!-- Activity breakdown -->
+<div align="center">
+  <img src="metrics.svg" alt="GitHub activity breakdown"/>
 </div>
 
 <!-- Extra Metrics -->
