@@ -141,6 +141,14 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshatsinha0&layout=compact&theme=radical" alt="Top languages"/>
 </div>
 
+<!-- GitHub Trophies -->
+<h3 align="center"><samp>Trophies</samp></h3>
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank" rel="noopener noreferrer">
+    <img src="https://github-profile-trophy.vercel.app/?username=akshatsinha0&theme=dracula&column=8&margin-w=10&margin-h=10" alt="GitHub Trophies"/>
+  </a>
+</div>
+
 <!-- WakaTime -->
 <h2><samp>WakaTime</samp></h2>
 <div align="center">
