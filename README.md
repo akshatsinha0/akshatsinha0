@@ -78,6 +78,19 @@
     <a href="https://www.figma.com"><img src="https://img.icons8.com/color/64/figma--v1.png" alt="Figma" style="margin:8px;"/></a>
     <a href="https://www.canva.com"><img src="https://img.icons8.com/color/64/canva.png" alt="Canva" style="margin:8px;"/></a>
   </p>
+
+  <h3><samp>🚀 DevOps & Infrastructure</samp></h3>
+  <p>
+    <a href="https://www.docker.com"><img src="https://img.icons8.com/color/64/docker.png" alt="Docker" style="margin:8px;"/></a>
+    <a href="https://kubernetes.io"><img src="https://img.icons8.com/color/64/kubernetes.png" alt="Kubernetes" style="margin:8px;"/></a>
+    <a href="https://www.jenkins.io"><img src="https://img.icons8.com/color/64/jenkins.png" alt="Jenkins" style="margin:8px;"/></a>
+    <a href="https://www.ansible.com"><img src="https://img.icons8.com/color/64/ansible.png" alt="Ansible" style="margin:8px;"/></a>
+    <a href="https://www.terraform.io"><img src="https://img.icons8.com/color/64/terraform.png" alt="Terraform" style="margin:8px;"/></a>
+    <a href="https://circleci.com"><img src="https://img.icons8.com/color/64/circleci.png" alt="CircleCI" style="margin:8px;"/></a>
+    <a href="https://argo-cd.readthedocs.io"><img src="https://img.icons8.com/color/64/argo.png" alt="ArgoCD" style="margin:8px;"/></a>
+    <a href="https://aws.amazon.com/cloudformation"><img src="https://img.icons8.com/color/64/amazon-cloudformation.png" alt="CloudFormation" style="margin:8px;"/></a>
+    <a href="https://codefresh.io"><img src="https://img.icons8.com/color/64/codefresh.png" alt="Codefresh" style="margin:8px;"/></a>
+  </p>
 </div>
 
 <!-- Highlight Projects -->
