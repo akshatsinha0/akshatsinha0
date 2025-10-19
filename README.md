@@ -43,7 +43,7 @@
 <h2><samp>Techs</samp></h2>
 <div align="center">
 
-  <h3><samp>⌨️ Programming</samp></h3>
+  <h3><samp><em>Programming</em></samp></h3>
   <p>
     <a href="https://isocpp.org"><img src="https://img.icons8.com/color/64/c-plus-plus-logo.png" alt="C++" style="margin:8px;"/></a>
     <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="https://img.icons8.com/color/64/c-programming.png" alt="C" style="margin:8px;"/></a>
@@ -51,7 +51,7 @@
     <a href="https://www.java.com"><img src="https://img.icons8.com/color/64/java-coffee-cup-logo.png" alt="Java" style="margin:8px;"/></a>
   </p>
 
-  <h3><samp>🎨 Frontend</samp></h3>
+  <h3><samp><em>Frontend</em></samp></h3>
   <p>
     <a href="https://developer.mozilla.org/docs/Web/HTML"><img src="https://img.icons8.com/color/64/html-5--v1.png" alt="HTML5" style="margin:8px;"/></a>
     <a href="https://developer.mozilla.org/docs/Web/CSS"><img src="https://img.icons8.com/color/64/css3.png" alt="CSS3" style="margin:8px;"/></a>
@@ -59,13 +59,13 @@
     <a href="https://react.dev"><img src="https://img.icons8.com/color/64/react-native.png" alt="React" style="margin:8px;"/></a>
   </p>
 
-  <h3><samp>🛠 Backend</samp></h3>
+  <h3><samp><em>Backend</em></samp></h3>
   <p>
     <a href="https://nodejs.org"><img src="https://img.icons8.com/color/64/nodejs.png" alt="Node.js" style="margin:8px;"/></a>
     <a href="https://expressjs.com"><img src="https://skillicons.dev/icons?i=express" height="48" alt="Express.js" style="margin:8px;vertical-align:middle;"/></a>
   </p>
 
-  <h3><samp>🗄 Databases & Cloud</samp></h3>
+  <h3><samp><em>Databases & Cloud</em></samp></h3>
   <p>
     <a href="https://www.mysql.com"><img src="https://img.icons8.com/color/64/mysql-logo.png" alt="MySQL" style="margin:8px;"/></a>
     <a href="https://www.mongodb.com"><img src="https://img.icons8.com/color/64/mongodb.png" alt="MongoDB" style="margin:8px;"/></a>
@@ -73,13 +73,13 @@
     <a href="https://git-scm.com"><img src="https://img.icons8.com/color/64/git.png" alt="Git" style="margin:8px;"/></a>
   </p>
 
-  <h3><samp>✏️ Design</samp></h3>
+  <h3><samp><em>Design</em></samp></h3>
   <p>
     <a href="https://www.figma.com"><img src="https://img.icons8.com/color/64/figma--v1.png" alt="Figma" style="margin:8px;"/></a>
     <a href="https://www.canva.com"><img src="https://img.icons8.com/color/64/canva.png" alt="Canva" style="margin:8px;"/></a>
   </p>
 
-  <h3><samp>🚀 DevOps & Infrastructure</samp></h3>
+  <h3><samp><em>DevOps & Infrastructure</em></samp></h3>
   <p>
     <a href="https://www.docker.com"><img src="https://img.icons8.com/color/64/docker.png" alt="Docker" style="margin:8px;"/></a>
     <a href="https://kubernetes.io"><img src="https://img.icons8.com/color/64/kubernetes.png" alt="Kubernetes" style="margin:8px;"/></a>
@@ -87,9 +87,9 @@
     <a href="https://www.ansible.com"><img src="https://img.icons8.com/color/64/ansible.png" alt="Ansible" style="margin:8px;"/></a>
     <a href="https://www.terraform.io"><img src="https://img.icons8.com/color/64/terraform.png" alt="Terraform" style="margin:8px;"/></a>
     <a href="https://circleci.com"><img src="https://img.icons8.com/color/64/circleci.png" alt="CircleCI" style="margin:8px;"/></a>
-    <a href="https://argo-cd.readthedocs.io"><img src="https://img.icons8.com/color/64/argo.png" alt="ArgoCD" style="margin:8px;"/></a>
-    <a href="https://aws.amazon.com/cloudformation"><img src="https://img.icons8.com/color/64/amazon-cloudformation.png" alt="CloudFormation" style="margin:8px;"/></a>
-    <a href="https://codefresh.io"><img src="https://img.icons8.com/color/64/codefresh.png" alt="Codefresh" style="margin:8px;"/></a>
+    <a href="https://argo-cd.readthedocs.io"><img src="https://skillicons.dev/icons?i=argocd" height="64" alt="ArgoCD" style="margin:8px;"/></a>
+    <a href="https://aws.amazon.com/cloudformation"><img src="https://skillicons.dev/icons?i=aws" height="64" alt="CloudFormation" style="margin:8px;"/></a>
+    <a href="https://codefresh.io"><img src="https://skillicons.dev/icons?i=codefresh" height="64" alt="Codefresh" style="margin:8px;"/></a>
   </p>
 </div>
 
