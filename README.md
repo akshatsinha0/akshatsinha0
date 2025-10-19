@@ -90,6 +90,9 @@
     <a href="https://argo-cd.readthedocs.io"><img src="https://skillicons.dev/icons?i=argocd" height="64" alt="ArgoCD" style="margin:8px;"/></a>
     <a href="https://aws.amazon.com/cloudformation"><img src="https://skillicons.dev/icons?i=aws" height="64" alt="CloudFormation" style="margin:8px;"/></a>
     <a href="https://codefresh.io"><img src="https://skillicons.dev/icons?i=codefresh" height="64" alt="Codefresh" style="margin:8px;"/></a>
+    <a href="https://cloud.google.com"><img src="https://skillicons.dev/icons?i=gcp" height="64" alt="Google Cloud" style="margin:8px;"/></a>
+    <a href="https://azure.microsoft.com"><img src="https://skillicons.dev/icons?i=azure" height="64" alt="Azure" style="margin:8px;"/></a>
+    <a href="https://www.openstack.org"><img src="https://img.icons8.com/color/64/openstack.png" alt="OpenStack" style="margin:8px;"/></a>
   </p>
 </div>
 
