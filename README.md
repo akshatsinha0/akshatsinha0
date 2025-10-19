@@ -49,6 +49,8 @@
     <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="https://img.icons8.com/color/64/c-programming.png" alt="C" style="margin:8px;"/></a>
     <a href="https://www.python.org"><img src="https://img.icons8.com/color/64/python--v1.png" alt="Python" style="margin:8px;"/></a>
     <a href="https://www.java.com"><img src="https://img.icons8.com/color/64/java-coffee-cup-logo.png" alt="Java" style="margin:8px;"/></a>
+    <a href="https://developer.apple.com/swift"><img src="https://img.icons8.com/color/64/swift.png" alt="Swift (basic learning)" style="margin:8px;"/></a>
+    <a href="https://dart.dev"><img src="https://img.icons8.com/color/64/dart.png" alt="Dart (basic learning)" style="margin:8px;"/></a>
   </p>
 
   <h3><samp><em>Frontend</em></samp></h3>
@@ -78,6 +80,8 @@
     <a href="https://www.figma.com"><img src="https://img.icons8.com/color/64/figma--v1.png" alt="Figma" style="margin:8px;"/></a>
     <a href="https://www.canva.com"><img src="https://img.icons8.com/color/64/canva.png" alt="Canva" style="margin:8px;"/></a>
     <a href="https://www.blender.org"><img src="https://img.icons8.com/color/64/blender-3d.png" alt="Blender" style="margin:8px;"/></a>
+    <a href="https://unity.com"><img src="https://img.icons8.com/color/64/unity.png" alt="Unity" style="margin:8px;"/></a>
+    <a href="https://www.unrealengine.com"><img src="https://img.icons8.com/color/64/unreal-engine.png" alt="Unreal Engine" style="margin:8px;"/></a>
   </p>
 
   <h3><samp><em>DevOps & Solution Architecture Ecosystem</em></samp></h3>
