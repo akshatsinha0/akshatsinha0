@@ -79,7 +79,7 @@
     <a href="https://www.canva.com"><img src="https://img.icons8.com/color/64/canva.png" alt="Canva" style="margin:8px;"/></a>
   </p>
 
-  <h3><samp><em>DevOps & Infrastructure</em></samp></h3>
+  <h3><samp><em>DevOps & Solution Architecture Ecosystem</em></samp></h3>
   <p>
     <a href="https://www.docker.com"><img src="https://img.icons8.com/color/64/docker.png" alt="Docker" style="margin:8px;"/></a>
     <a href="https://kubernetes.io"><img src="https://img.icons8.com/color/64/kubernetes.png" alt="Kubernetes" style="margin:8px;"/></a>
@@ -93,6 +93,7 @@
     <a href="https://cloud.google.com"><img src="https://skillicons.dev/icons?i=gcp" height="64" alt="Google Cloud" style="margin:8px;"/></a>
     <a href="https://azure.microsoft.com"><img src="https://skillicons.dev/icons?i=azure" height="64" alt="Azure" style="margin:8px;"/></a>
     <a href="https://www.openstack.org"><img src="https://img.icons8.com/color/64/openstack.png" alt="OpenStack" style="margin:8px;"/></a>
+    <a href="https://www.microsoft.com/en-us/microsoft-teams"><img src="https://img.icons8.com/color/64/microsoft-teams.png" alt="Microsoft Teams" style="margin:8px;"/></a>
   </p>
 </div>
 
