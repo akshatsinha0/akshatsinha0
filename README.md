@@ -8,6 +8,9 @@
   </a>
 </div>
 
+<!-- Subtitle under Header -->
+<p align="center"><samp>Data Manufacturing, Data Migration, Load transition, Warm cloud instrumentation and Infra, Staff &and Architecture-cum-platform, Cloud Fabric, section prest, forward deployed, Edge AI/llms, Nobel Metal Virtual Embedded firmware, X-aves, Loab of Physical Mathematics, Game Crane Graphics, 6G Tower Area N/W(weakling+strongling sap core)</samp></p>
+
 <!-- Typing Intro -->
 <div align="center">
   <a href="https://git.io/typing-svg" target="_blank" rel="noopener noreferrer">
