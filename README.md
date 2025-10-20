@@ -1,4 +1,7 @@
 <!-- Header with Banner -->
+<div>
+  Data Manufacturing, Data Migration, Load transition, Warm cloud instrumentation and Infra, Staff &and Architecture-cum-platform, Cloud Fabric, section prest, forward deployed, Edge AI/llms, Nobel Metal Virtual Embedded firmware, X-aves, Loab of Physical Mathematics, Game Crane Graphics, 6G Tower Area N/W(weakling+strongling sap core)
+</div>
 <div align="center">
   <a href="https://capsule-render.vercel.app" target="_blank" rel="noopener noreferrer">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Akshat%20Sinha&fontSize=80&fontAlignY=35&animation=fadeIn" alt="Header Banner"/>
