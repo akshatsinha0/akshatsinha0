@@ -81,6 +81,12 @@
     <a href="https://git-scm.com"><img src="https://img.icons8.com/color/64/git.png" alt="Git" style="margin:8px;"/></a>
   </p>
 
+  <h3><samp><em>Taking a step in new phase</em></samp></h3>
+  <p>
+    <a href="https://unity.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="64" alt="Unity" style="margin:8px;"/></a>
+    <a href="https://www.unrealengine.com"><img src="https://img.icons8.com/color/64/unreal-engine.png" alt="Unreal Engine" style="margin:8px;"/></a>
+  </p>
+
   <h3><samp><em>Design</em></samp></h3>
   <p>
     <a href="https://www.figma.com"><img src="https://img.icons8.com/color/64/figma--v1.png" alt="Figma" style="margin:8px;"/></a>
