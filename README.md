@@ -10,6 +10,34 @@
 
 <!-- Subtitle under Header -->
 <p align="center"><span style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Helvetica Neue', Arial, sans-serif; font-weight:600;">Data Manufacturing, Data Migration, Data Mining, Load transition, Warm cloud instrumentation and Infra, Staff &and Architecture-cum-platform, Cloud Fabric, section prest, forward deployed, Edge AI/llms, Nobel Metal Virtual Embedded firmware, X-aves, Loab of Physical Mathematics, Game Crane Graphics, 6G Tower Area N/W(weakling+strongling sap core)</span></p>
+ 
+<!-- Quick Badges -->
+<p align="center">
+  <a href="https://github.com/akshatsinha0" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/GitHub-akshatsinha0-181717?logo=github" alt="GitHub Badge"/>
+  </a>
+  <a href="https://www.linkedin.com/in/akshat-sinha-248805214" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="mailto:akshat.sinha2022@vitstudent.ac.in">
+    <img src="https://img.shields.io/badge/Email-Say%20Hello!-EA4335?logo=gmail&logoColor=white" alt="Email Badge"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=akshatsinha0&label=Visitors&color=8A2BE2&style=flat" alt="Visitors"/>
+  <img src="https://img.shields.io/github/followers/akshatsinha0?style=flat&color=00E5FF" alt="Followers"/>
+  <img src="https://img.shields.io/badge/Time_Zone-Asia/Kolkata-4AB197" alt="Time Zone"/>
+</p>
+ 
+<!-- Quick Links -->
+<p align="center">
+  <a href="#techs">Techs</a> •
+  <a href="#projects">Projects</a> •
+  <a href="#github-stats">GitHub Stats</a> •
+  <a href="#wakatime">WakaTime</a> •
+  <a href="#basic-deeds">Basic deeds</a>
+  <br/>
+  <sub>Use the links to jump to sections</sub>
+  
+</p>
 
 <!-- Typing Intro -->
 <div align="center">
@@ -46,6 +74,7 @@
 </div>
 
 <!-- Tech Stack -->
+<a id="techs"></a>
 <h2><samp>Techs</samp></h2>
 <div align="center">
 
@@ -115,6 +144,7 @@
 </div>
 
 <!-- Highlight Projects -->
+<a id="projects"></a>
 <h2><samp>Projects</samp></h2>
 <table>
   <tr>
@@ -164,6 +194,7 @@
 </div>
 
 <!-- GitHub Stats -->
+<a id="github-stats"></a>
 <h2><samp>GitHub Stats</samp></h2>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=akshatsinha0&show_icons=true&count_private=true&hide=issues&theme=radical" alt="GitHub stats"/>
@@ -184,6 +215,7 @@
 </div>
 
 <!-- WakaTime -->
+<a id="wakatime"></a>
 <h2><samp>WakaTime</samp></h2>
 <div align="center">
   <a href="https://wakatime.com/@akshatsinha0" target="_blank" rel="noopener noreferrer">
@@ -224,6 +256,7 @@
 </div>
 
 <!-- Contact -->
+<a id="basic-deeds"></a>
 <h2><samp>Basic deeds</samp></h2>
 <div align="center">
   <a href="mailto:akshat.sinha2022@vitstudent.ac.in" title="Email"><img src="https://skillicons.dev/icons?i=gmail" height="36"/></a>
