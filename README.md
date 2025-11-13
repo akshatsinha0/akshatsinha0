@@ -32,6 +32,7 @@
   <a href="#techs">Techs</a> •
   <a href="#projects">Projects</a> •
   <a href="#github-stats">GitHub Stats</a> •
+  <a href="#activity-overview">Activity overview</a> •
   <a href="#wakatime">WakaTime</a> •
   <a href="#basic-deeds">Basic deeds</a>
   <br/>
@@ -212,6 +213,13 @@
   <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank" rel="noopener noreferrer">
     <img src="https://github-profile-trophy.vercel.app/?username=akshatsinha0&theme=dracula&column=8&margin-w=10&margin-h=10" alt="GitHub Trophies"/>
   </a>
+</div>
+
+<!-- Activity Overview -->
+<a id="activity-overview"></a>
+<h2><samp>Activity overview</samp></h2>
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akshatsinha0&theme=github_dark&title=GitHub%20Activity%20Overview" alt="GitHub Activity Overview"/>
 </div>
 
 <!-- WakaTime -->
