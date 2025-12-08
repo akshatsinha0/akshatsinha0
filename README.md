@@ -109,6 +109,7 @@
     <a href="https://www.mongodb.com"><img src="https://img.icons8.com/color/64/mongodb.png" alt="MongoDB" style="margin:8px;"/></a>
     <a href="https://aws.amazon.com"><img src="https://img.icons8.com/color/64/amazon-web-services.png" alt="AWS" style="margin:8px;"/></a>
     <a href="https://git-scm.com"><img src="https://img.icons8.com/color/64/git.png" alt="Git" style="margin:8px;"/></a>
+    <a href="https://code.visualstudio.com"><img src="https://img.icons8.com/color/64/visual-studio-code-2019.png" alt="Visual Studio Code" style="margin:8px;"/></a>
   </p>
 
   <h3><samp><em>Taking a step in new phase</em></samp></h3>
