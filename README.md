@@ -9,7 +9,7 @@
 </div>
 
 <!-- Subtitle under Header -->
-<p align="center"><span style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Helvetica Neue', Arial, sans-serif; font-weight:600;">Data Manufacturing, Data Migration, Data Mining, Load transition, Warm cloud instrumentation and Infra, Staff &and Architecture-cum-platform, Cloud Fabric, section prest, forward deployed, Edge AI/llms, Nobel Metal Virtual Embedded firmware, X-aves, Loab of Physical Mathematics, Game Crane Graphics, 6G Tower Area N/W(weakling+strongling sap core)</span></p>
+<!-- <p align="center"><span style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Helvetica Neue', Arial, sans-serif; font-weight:600;">Data Manufacturing, Data Migration, Data Mining, Load transition, Warm cloud instrumentation and Infra, Staff &and Architecture-cum-platform, Cloud Fabric, section prest, forward deployed, Edge AI/llms, Nobel Metal Virtual Embedded firmware, X-aves, Loab of Physical Mathematics, Game Crane Graphics, 6G Tower Area N/W(weakling+strongling sap core)</span></p> -->
  
 <!-- Quick Badges -->
 <p align="center">
