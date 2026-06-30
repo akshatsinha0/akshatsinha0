@@ -38,14 +38,21 @@
  
 <!-- Quick Links -->
 <p align="center">
-  <a href="#techs">Techs</a> •
-  <a href="#projects">Projects</a> •
-  <a href="#github-stats">GitHub Stats</a> •
-  <a href="#activity-overview">Activity overview</a> •
-  <a href="#wakatime">WakaTime</a> •
-  <a href="#basic-deeds">Basic deeds</a>
+  <samp>
+    <a href="#techs">Techs</a>
+    &nbsp;&bull;&nbsp;
+    <a href="#projects">Projects</a>
+    &nbsp;&bull;&nbsp;
+    <a href="#github-stats">GitHub Stats</a>
+    &nbsp;&bull;&nbsp;
+    <a href="#activity-overview">Activity Overview</a>
+    &nbsp;&bull;&nbsp;
+    <a href="#wakatime">WakaTime</a>
+    &nbsp;&bull;&nbsp;
+    <a href="#basic-deeds">Basic Deeds</a>
+  </samp>
   <br/>
-  <sub>Use the links to jump to sections</sub>
+  <sub><samp>Jump into the profile sections</samp></sub>
   
 </p>
 
