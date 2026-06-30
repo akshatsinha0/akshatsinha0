@@ -38,19 +38,17 @@
  
 <!-- Quick Links -->
 <p align="center">
-  <samp>
-    <a href="#techs">Techs</a>
-    &nbsp;&bull;&nbsp;
-    <a href="#projects">Projects</a>
-    &nbsp;&bull;&nbsp;
-    <a href="#github-stats">GitHub Stats</a>
-    &nbsp;&bull;&nbsp;
-    <a href="#activity-overview">Activity Overview</a>
-    &nbsp;&bull;&nbsp;
-    <a href="#wakatime">WakaTime</a>
-    &nbsp;&bull;&nbsp;
-    <a href="#basic-deeds">Basic Deeds</a>
-  </samp>
+  <kbd><a href="#techs">Techs</a></kbd>
+  &nbsp;
+  <kbd><a href="#projects">Projects</a></kbd>
+  &nbsp;
+  <kbd><a href="#github-stats">GitHub Stats</a></kbd>
+  &nbsp;
+  <kbd><a href="#activity-overview">Activity Overview</a></kbd>
+  &nbsp;
+  <kbd><a href="#wakatime">WakaTime</a></kbd>
+  &nbsp;
+  <kbd><a href="#basic-deeds">Basic Deeds</a></kbd>
   <br/>
   <sub><samp>Jump into the profile sections</samp></sub>
   
@@ -95,73 +93,88 @@
 <a id="techs"></a>
 <br/>
 <h2 align="center"><samp>Techs</samp></h2>
-<div align="center">
-
-  <h3><samp><em>Programming</em></samp></h3>
-  <p>
-    <a href="https://isocpp.org"><img src="https://img.icons8.com/color/64/c-plus-plus-logo.png" alt="C++" style="margin:8px;"/></a>
-    <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="https://img.icons8.com/color/64/c-programming.png" alt="C" style="margin:8px;"/></a>
-    <a href="https://www.python.org"><img src="https://img.icons8.com/color/64/python--v1.png" alt="Python" style="margin:8px;"/></a>
-    <a href="https://www.java.com"><img src="https://img.icons8.com/color/64/java-coffee-cup-logo.png" alt="Java" style="margin:8px;"/></a>
-    <a href="https://developer.apple.com/swift"><img src="https://img.icons8.com/color/64/swift.png" alt="Swift (basic learning)" style="margin:8px;"/></a>
-    <a href="https://dart.dev"><img src="https://img.icons8.com/color/64/dart.png" alt="Dart (basic learning)" style="margin:8px;"/></a>
-  </p>
-
-  <h3><samp><em>Frontend</em></samp></h3>
-  <p>
-    <a href="https://developer.mozilla.org/docs/Web/HTML"><img src="https://img.icons8.com/color/64/html-5--v1.png" alt="HTML5" style="margin:8px;"/></a>
-    <a href="https://developer.mozilla.org/docs/Web/CSS"><img src="https://img.icons8.com/color/64/css3.png" alt="CSS3" style="margin:8px;"/></a>
-    <a href="https://developer.mozilla.org/docs/Web/JavaScript"><img src="https://img.icons8.com/color/64/javascript--v1.png" alt="JavaScript" style="margin:8px;"/></a>
-    <a href="https://react.dev"><img src="https://img.icons8.com/color/64/react-native.png" alt="React" style="margin:8px;"/></a>
-  </p>
-
-  <h3><samp><em>Backend</em></samp></h3>
-  <p>
-    <a href="https://nodejs.org"><img src="https://img.icons8.com/color/64/nodejs.png" alt="Node.js" style="margin:8px;"/></a>
-    <a href="https://expressjs.com"><img src="https://skillicons.dev/icons?i=express" height="48" alt="Express.js" style="margin:8px;vertical-align:middle;"/></a>
-  </p>
-
-  <h3><samp><em>Databases & Cloud</em></samp></h3>
-  <p>
-    <a href="https://www.mysql.com"><img src="https://img.icons8.com/color/64/mysql-logo.png" alt="MySQL" style="margin:8px;"/></a>
-    <a href="https://www.mongodb.com"><img src="https://img.icons8.com/color/64/mongodb.png" alt="MongoDB" style="margin:8px;"/></a>
-    <a href="https://aws.amazon.com"><img src="https://img.icons8.com/color/64/amazon-web-services.png" alt="AWS" style="margin:8px;"/></a>
-    <a href="https://git-scm.com"><img src="https://img.icons8.com/color/64/git.png" alt="Git" style="margin:8px;"/></a>
-    <a href="https://code.visualstudio.com"><img src="https://skillicons.dev/icons?i=vscode" height="64" alt="Visual Studio Code" style="margin:8px;"/></a>
-  </p>
-
-  <h3><samp><em>Taking a step in new phase</em></samp></h3>
-  <p>
-    <a href="https://unity.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="64" alt="Unity" style="margin:8px;"/></a>
-    <a href="https://www.unrealengine.com"><img src="https://img.icons8.com/color/64/unreal-engine.png" alt="Unreal Engine" style="margin:8px;"/></a>
-  </p>
-
-  <h3><samp><em>Design</em></samp></h3>
-  <p>
-    <a href="https://www.figma.com"><img src="https://img.icons8.com/color/64/figma--v1.png" alt="Figma" style="margin:8px;"/></a>
-    <a href="https://www.canva.com"><img src="https://img.icons8.com/color/64/canva.png" alt="Canva" style="margin:8px;"/></a>
-    <a href="https://www.blender.org"><img src="https://img.icons8.com/color/64/blender-3d.png" alt="Blender" style="margin:8px;"/></a>
-    <a href="https://unity.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="64" alt="Unity" style="margin:8px;"/></a>
-    <a href="https://www.unrealengine.com"><img src="https://img.icons8.com/color/64/unreal-engine.png" alt="Unreal Engine" style="margin:8px;"/></a>
-  </p>
-
-  <h3><samp><em>DevOps & Solution Architecture Ecosystem</em></samp></h3>
-  <p>
-    <a href="https://www.docker.com"><img src="https://img.icons8.com/color/64/docker.png" alt="Docker" style="margin:8px;"/></a>
-    <a href="https://kubernetes.io"><img src="https://img.icons8.com/color/64/kubernetes.png" alt="Kubernetes" style="margin:8px;"/></a>
-    <a href="https://www.jenkins.io"><img src="https://img.icons8.com/color/64/jenkins.png" alt="Jenkins" style="margin:8px;"/></a>
-    <a href="https://www.ansible.com"><img src="https://img.icons8.com/color/64/ansible.png" alt="Ansible" style="margin:8px;"/></a>
-    <a href="https://www.terraform.io"><img src="https://img.icons8.com/color/64/terraform.png" alt="Terraform" style="margin:8px;"/></a>
-    <a href="https://circleci.com"><img src="https://img.icons8.com/color/64/circleci.png" alt="CircleCI" style="margin:8px;"/></a>
-    <a href="https://argo-cd.readthedocs.io"><img src="https://skillicons.dev/icons?i=argocd" height="64" alt="ArgoCD" style="margin:8px;"/></a>
-    <a href="https://aws.amazon.com/cloudformation"><img src="https://skillicons.dev/icons?i=aws" height="64" alt="CloudFormation" style="margin:8px;"/></a>
-    <a href="https://codefresh.io"><img src="https://skillicons.dev/icons?i=codefresh" height="64" alt="Codefresh" style="margin:8px;"/></a>
-    <a href="https://cloud.google.com"><img src="https://skillicons.dev/icons?i=gcp" height="64" alt="Google Cloud" style="margin:8px;"/></a>
-    <a href="https://azure.microsoft.com"><img src="https://skillicons.dev/icons?i=azure" height="64" alt="Azure" style="margin:8px;"/></a>
-    <a href="https://www.openstack.org"><img src="https://img.icons8.com/color/64/openstack.png" alt="OpenStack" style="margin:8px;"/></a>
-    <a href="https://www.microsoft.com/en-us/microsoft-teams"><img src="https://img.icons8.com/color/64/microsoft-teams.png" alt="Microsoft Teams" style="margin:8px;"/></a>
-  </p>
-</div>
+<table width="100%">
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <h3><samp><em>Programming</em></samp></h3>
+      <p>
+        <a href="https://isocpp.org"><img src="https://img.icons8.com/color/64/c-plus-plus-logo.png" alt="C++" style="margin:8px;"/></a>
+        <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="https://img.icons8.com/color/64/c-programming.png" alt="C" style="margin:8px;"/></a>
+        <a href="https://www.python.org"><img src="https://img.icons8.com/color/64/python--v1.png" alt="Python" style="margin:8px;"/></a>
+        <a href="https://www.java.com"><img src="https://img.icons8.com/color/64/java-coffee-cup-logo.png" alt="Java" style="margin:8px;"/></a>
+        <a href="https://developer.apple.com/swift"><img src="https://img.icons8.com/color/64/swift.png" alt="Swift (basic learning)" style="margin:8px;"/></a>
+        <a href="https://dart.dev"><img src="https://img.icons8.com/color/64/dart.png" alt="Dart (basic learning)" style="margin:8px;"/></a>
+      </p>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <h3><samp><em>Frontend</em></samp></h3>
+      <p>
+        <a href="https://developer.mozilla.org/docs/Web/HTML"><img src="https://img.icons8.com/color/64/html-5--v1.png" alt="HTML5" style="margin:8px;"/></a>
+        <a href="https://developer.mozilla.org/docs/Web/CSS"><img src="https://img.icons8.com/color/64/css3.png" alt="CSS3" style="margin:8px;"/></a>
+        <a href="https://developer.mozilla.org/docs/Web/JavaScript"><img src="https://img.icons8.com/color/64/javascript--v1.png" alt="JavaScript" style="margin:8px;"/></a>
+        <a href="https://react.dev"><img src="https://img.icons8.com/color/64/react-native.png" alt="React" style="margin:8px;"/></a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <h3><samp><em>Backend</em></samp></h3>
+      <p>
+        <a href="https://nodejs.org"><img src="https://img.icons8.com/color/64/nodejs.png" alt="Node.js" style="margin:8px;"/></a>
+        <a href="https://expressjs.com"><img src="https://skillicons.dev/icons?i=express" height="48" alt="Express.js" style="margin:8px;vertical-align:middle;"/></a>
+      </p>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <h3><samp><em>Databases & Cloud</em></samp></h3>
+      <p>
+        <a href="https://www.mysql.com"><img src="https://img.icons8.com/color/64/mysql-logo.png" alt="MySQL" style="margin:8px;"/></a>
+        <a href="https://www.mongodb.com"><img src="https://img.icons8.com/color/64/mongodb.png" alt="MongoDB" style="margin:8px;"/></a>
+        <a href="https://aws.amazon.com"><img src="https://img.icons8.com/color/64/amazon-web-services.png" alt="AWS" style="margin:8px;"/></a>
+        <a href="https://git-scm.com"><img src="https://img.icons8.com/color/64/git.png" alt="Git" style="margin:8px;"/></a>
+        <a href="https://code.visualstudio.com"><img src="https://skillicons.dev/icons?i=vscode" height="64" alt="Visual Studio Code" style="margin:8px;"/></a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <h3><samp><em>Taking a step in new phase</em></samp></h3>
+      <p>
+        <a href="https://unity.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="64" alt="Unity" style="margin:8px;"/></a>
+        <a href="https://www.unrealengine.com"><img src="https://img.icons8.com/color/64/unreal-engine.png" alt="Unreal Engine" style="margin:8px;"/></a>
+      </p>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <h3><samp><em>Design</em></samp></h3>
+      <p>
+        <a href="https://www.figma.com"><img src="https://img.icons8.com/color/64/figma--v1.png" alt="Figma" style="margin:8px;"/></a>
+        <a href="https://www.canva.com"><img src="https://img.icons8.com/color/64/canva.png" alt="Canva" style="margin:8px;"/></a>
+        <a href="https://www.blender.org"><img src="https://img.icons8.com/color/64/blender-3d.png" alt="Blender" style="margin:8px;"/></a>
+        <a href="https://unity.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="64" alt="Unity" style="margin:8px;"/></a>
+        <a href="https://www.unrealengine.com"><img src="https://img.icons8.com/color/64/unreal-engine.png" alt="Unreal Engine" style="margin:8px;"/></a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center" valign="top">
+      <h3><samp><em>DevOps & Solution Architecture Ecosystem</em></samp></h3>
+      <p>
+        <a href="https://www.docker.com"><img src="https://img.icons8.com/color/64/docker.png" alt="Docker" style="margin:8px;"/></a>
+        <a href="https://kubernetes.io"><img src="https://img.icons8.com/color/64/kubernetes.png" alt="Kubernetes" style="margin:8px;"/></a>
+        <a href="https://www.jenkins.io"><img src="https://img.icons8.com/color/64/jenkins.png" alt="Jenkins" style="margin:8px;"/></a>
+        <a href="https://www.ansible.com"><img src="https://img.icons8.com/color/64/ansible.png" alt="Ansible" style="margin:8px;"/></a>
+        <a href="https://www.terraform.io"><img src="https://img.icons8.com/color/64/terraform.png" alt="Terraform" style="margin:8px;"/></a>
+        <a href="https://circleci.com"><img src="https://img.icons8.com/color/64/circleci.png" alt="CircleCI" style="margin:8px;"/></a>
+        <a href="https://argo-cd.readthedocs.io"><img src="https://skillicons.dev/icons?i=argocd" height="64" alt="ArgoCD" style="margin:8px;"/></a>
+        <a href="https://aws.amazon.com/cloudformation"><img src="https://skillicons.dev/icons?i=aws" height="64" alt="CloudFormation" style="margin:8px;"/></a>
+        <a href="https://codefresh.io"><img src="https://skillicons.dev/icons?i=codefresh" height="64" alt="Codefresh" style="margin:8px;"/></a>
+        <a href="https://cloud.google.com"><img src="https://skillicons.dev/icons?i=gcp" height="64" alt="Google Cloud" style="margin:8px;"/></a>
+        <a href="https://azure.microsoft.com"><img src="https://skillicons.dev/icons?i=azure" height="64" alt="Azure" style="margin:8px;"/></a>
+        <a href="https://www.openstack.org"><img src="https://img.icons8.com/color/64/openstack.png" alt="OpenStack" style="margin:8px;"/></a>
+        <a href="https://www.microsoft.com/en-us/microsoft-teams"><img src="https://img.icons8.com/color/64/microsoft-teams.png" alt="Microsoft Teams" style="margin:8px;"/></a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 <!-- Highlight Projects -->
 <a id="projects"></a>
@@ -178,7 +191,7 @@
         <img src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=4AB197"/>
         <img src="https://img.shields.io/badge/Library-TensorFlow-informational?style=flat&logo=tensorflow&logoColor=white&color=4AB197"/>
       </p>
-      <p><samp>Real‑time chess cheat detection with Stockfish, OpenCV, and TensorFlow. Dockerized with MySQL.</samp></p>
+      <p align="center">Real‑time chess cheat detection with Stockfish, OpenCV, and TensorFlow. Dockerized with MySQL.</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center"><samp>Takes Takes Takes – Chess Game Website</samp></h3>
@@ -189,7 +202,7 @@
         <img src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=4AB197"/>
         <img src="https://img.shields.io/badge/Tech-WebSockets-informational?style=flat&logo=socket.io&logoColor=white&color=4AB197"/>
       </p>
-      <p><samp>Two‑player chess with real‑time sync, auth, and game history via MongoDB.</samp></p>
+      <p align="center">Two‑player chess with real‑time sync, auth, and game history via MongoDB.</p>
     </td>
   </tr>
   <tr>
@@ -202,7 +215,7 @@
         <img src="https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=4AB197"/>
         <img src="https://img.shields.io/badge/Tech-Node.js-informational?style=flat&logo=nodedotjs&logoColor=white&color=4AB197"/>
       </p>
-      <p><samp>Responsive chat with private/group messaging using React+Node+WebSockets+MongoDB.</samp></p>
+      <p align="center">Responsive chat with private/group messaging using React+Node+WebSockets+MongoDB.</p>
     </td>
   </tr>
 </table>
