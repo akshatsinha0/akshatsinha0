@@ -4,7 +4,7 @@
 </div> -->
 <div align="center">
   <a href="https://capsule-render.vercel.app" target="_blank" rel="noopener noreferrer">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Akshat%20Sinha&fontSize=80&fontAlignY=35&animation=fadeIn" alt="Header Banner"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Akshat%20Sinha&fontSize=80&fontAlignY=35&animation=fadeIn" alt="Header Banner" width="100%"/>
   </a>
 </div>
 
@@ -57,7 +57,7 @@
 <!-- Typing Intro -->
 <div align="center">
   <a href="https://git.io/typing-svg" target="_blank" rel="noopener noreferrer">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&amp;weight=600&amp;pause=1200&amp;color=00E5FF&amp;center=true&amp;vCenter=true&amp;width=900&amp;lines=Senior-self+noMansLand+%7C+Eminent+position;Back-led+by+your+trueColors;Learning+systems%2C+design%2C+and+frontend+dev+with+breakFormat" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&amp;weight=600&amp;pause=1200&amp;color=00E5FF&amp;center=true&amp;vCenter=true&amp;width=900&amp;lines=Senior-self+noMansLand+%7C+Eminent+position;Back-led+by+your+trueColors;Learning+systems%2C+design%2C+and+frontend+dev+with+breakFormat" alt="Typing SVG" width="100%"/>
   </a>
 </div>
 
@@ -70,6 +70,8 @@
     <img src="https://komarev.com/ghpvc/?username=akshatsinha0&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
   </a>
 </p>
+
+<hr/>
 
 <!-- Now -->
 <br/>
@@ -88,6 +90,8 @@
   <a href="https://github.com/akshatsinha0" title="GitHub"><img src="https://skillicons.dev/icons?i=github" height="32"/></a>
   <a href="https://leetcode.com/u/akshatsinha0/" title="LeetCode"><img src="https://skillicons.dev/icons?i=leetcode" height="32"/></a>
 </div>
+
+<hr/>
 
 <!-- Tech Stack -->
 <a id="techs"></a>
@@ -176,11 +180,13 @@
   </tr>
 </table>
 
+<hr/>
+
 <!-- Highlight Projects -->
 <a id="projects"></a>
 <br/>
 <h2 align="center"><samp>Projects</samp></h2>
-<table>
+<table width="100%">
   <tr>
     <td width="50%" valign="top">
       <h3 align="center"><samp>Chess Cheat Detection Engine</samp></h3>
@@ -222,7 +228,7 @@
 
 <!-- Pinned Repo Cards -->
 <br/>
-<table>
+<table width="100%">
   <tr>
     <td width="50%" align="center" valign="top">
       <a href="https://github.com/akshatsinha0/chess-cheat-detect">
@@ -243,6 +249,8 @@
   </tr>
 </table>
 
+<hr/>
+
 <!-- GitHub Stats -->
 <a id="github-stats"></a>
 <br/>
@@ -255,6 +263,8 @@
   <img src="https://streak-stats.demolab.com?user=akshatsinha0&theme=radical&v=2" alt="Streak stats" width="100%"/>
 </div>
 
+<br/>
+
 <h3 align="center"><samp>Top Languages</samp></h3>
 <div align="center">
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white" alt="C++"/>
@@ -265,6 +275,8 @@
   <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React"/>
 </div>
 
+<br/>
+
 <!-- GitHub Trophies -->
 <h3 align="center"><samp>Trophies</samp></h3>
 <div align="center">
@@ -273,6 +285,8 @@
   <img src="https://img.shields.io/badge/Chess-Engineer-4AB197?style=flat" alt="Chess Engineer"/>
   <img src="https://img.shields.io/badge/Profile-Canonical%20Trace-00E5FF?style=flat" alt="Canonical Trace"/>
 </div>
+
+<hr/>
 
 <!-- Activity Overview -->
 <a id="activity-overview"></a>
@@ -326,6 +340,8 @@
   </div>
 </details>
 
+<hr/>
+
 <!-- LeetCode Card -->
 <br/>
 <div align="center">
@@ -343,6 +359,8 @@
   <img src="https://readme-jokes.vercel.app/api?theme=dracula" alt="Jokes Card" width="70%"/>
 </div>
 
+<hr/>
+
 <!-- Contact -->
 <a id="basic-deeds"></a>
 <br/>
@@ -356,7 +374,7 @@
 
 <!-- Footer Wave -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer Wave"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer Wave" width="100%"/>
 </div>
 
 <!-- Snake -->
