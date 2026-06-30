@@ -78,18 +78,20 @@
 <h2 align="center"><samp>Now</samp></h2>
 
 <!-- Signals -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Hobby-Chess-8A2BE2?style=for-the-badge" alt="Hobby: Chess"/>
-  <img src="https://img.shields.io/badge/Loves-Open%20Source-FF69B4?style=for-the-badge" alt="Loves: Open Source"/>
-</p>
-
-<!-- Social/Links -->
-<div align="center">
-  <a href="mailto:akshat.sinha2022@vitstudent.ac.in" title="Email"><img src="https://skillicons.dev/icons?i=gmail" height="32"/></a>
-  <a href="https://www.linkedin.com/in/akshat-sinha-248805214" title="LinkedIn"><img src="https://skillicons.dev/icons?i=linkedin" height="32"/></a>
-  <a href="https://github.com/akshatsinha0" title="GitHub"><img src="https://skillicons.dev/icons?i=github" height="32"/></a>
-  <a href="https://leetcode.com/u/akshatsinha0/" title="LeetCode"><img src="https://skillicons.dev/icons?i=leetcode" height="32"/></a>
-</div>
+<table width="100%">
+  <tr>
+    <td width="50%" align="center" valign="middle">
+      <img src="https://img.shields.io/badge/Hobby-Chess-8A2BE2?style=for-the-badge" alt="Hobby: Chess"/>
+      <img src="https://img.shields.io/badge/Loves-Open%20Source-FF69B4?style=for-the-badge" alt="Loves: Open Source"/>
+    </td>
+    <td width="50%" align="center" valign="middle">
+      <a href="mailto:akshat.sinha2022@vitstudent.ac.in" title="Email"><img src="https://skillicons.dev/icons?i=gmail" height="32"/></a>
+      <a href="https://www.linkedin.com/in/akshat-sinha-248805214" title="LinkedIn"><img src="https://skillicons.dev/icons?i=linkedin" height="32"/></a>
+      <a href="https://github.com/akshatsinha0" title="GitHub"><img src="https://skillicons.dev/icons?i=github" height="32"/></a>
+      <a href="https://leetcode.com/u/akshatsinha0/" title="LeetCode"><img src="https://skillicons.dev/icons?i=leetcode" height="32"/></a>
+    </td>
+  </tr>
+</table>
 
 <hr/>
 
@@ -191,7 +193,7 @@
     <td width="50%" valign="top">
       <h3 align="center"><samp>Chess Cheat Detection Engine</samp></h3>
       <a href="https://github.com/akshatsinha0/chess-cheat-detect" target="_blank" rel="noopener noreferrer">
-        <img src="https://media.giphy.com/media/l0HlTy9x8FZo0XO1i/giphy.gif" alt="Chess Project" width="100%"/>
+        <img src="https://media.giphy.com/media/l0HlTy9x8FZo0XO1i/giphy.gif" alt="Chess Project" width="96%"/>
       </a>
       <p align="center">
         <img src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=4AB197"/>
@@ -202,7 +204,7 @@
     <td width="50%" valign="top">
       <h3 align="center"><samp>Takes Takes Takes – Chess Game Website</samp></h3>
       <a href="https://github.com/akshatsinha0/takestakestakes-chessified" target="_blank" rel="noopener noreferrer">
-        <img src="https://media.giphy.com/media/sULKEgDMX8LcI/giphy.gif" alt="Chess Website" width="100%"/>
+        <img src="https://media.giphy.com/media/sULKEgDMX8LcI/giphy.gif" alt="Chess Website" width="96%"/>
       </a>
       <p align="center">
         <img src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=4AB197"/>
@@ -215,7 +217,7 @@
     <td colspan="2" align="center" valign="top">
       <h3 align="center"><samp>HereIAm – Real‑Time Chat Application</samp></h3>
       <a href="https://github.com/akshatsinha0/Imp-Here-I-Am" target="_blank" rel="noopener noreferrer">
-        <img src="https://media.giphy.com/media/Pa6mgXJmrAHbvenVV1/giphy.gif" alt="Chat App" width="60%"/>
+        <img src="https://media.giphy.com/media/Pa6mgXJmrAHbvenVV1/giphy.gif" alt="Chat App" width="64%"/>
       </a>
       <p align="center">
         <img src="https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=4AB197"/>
@@ -265,26 +267,26 @@
 
 <br/>
 
-<h3 align="center"><samp>Top Languages</samp></h3>
-<div align="center">
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=111111" alt="C"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=111111" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React"/>
-</div>
-
-<br/>
-
-<!-- GitHub Trophies -->
-<h3 align="center"><samp>Trophies</samp></h3>
-<div align="center">
-  <img src="https://img.shields.io/badge/Open%20Source-Builder-FF69B4?style=flat" alt="Open Source Builder"/>
-  <img src="https://img.shields.io/badge/Systems-Explorer-8A2BE2?style=flat" alt="Systems Explorer"/>
-  <img src="https://img.shields.io/badge/Chess-Engineer-4AB197?style=flat" alt="Chess Engineer"/>
-  <img src="https://img.shields.io/badge/Profile-Canonical%20Trace-00E5FF?style=flat" alt="Canonical Trace"/>
-</div>
+<table width="100%">
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <h3 align="center"><samp>Top Languages</samp></h3>
+      <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white" alt="C++"/>
+      <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=111111" alt="C"/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/>
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" alt="Java"/>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=111111" alt="JavaScript"/>
+      <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React"/>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <h3 align="center"><samp>Trophies</samp></h3>
+      <img src="https://img.shields.io/badge/Open%20Source-Builder-FF69B4?style=flat" alt="Open Source Builder"/>
+      <img src="https://img.shields.io/badge/Systems-Explorer-8A2BE2?style=flat" alt="Systems Explorer"/>
+      <img src="https://img.shields.io/badge/Chess-Engineer-4AB197?style=flat" alt="Chess Engineer"/>
+      <img src="https://img.shields.io/badge/Profile-Canonical%20Trace-00E5FF?style=flat" alt="Canonical Trace"/>
+    </td>
+  </tr>
+</table>
 
 <hr/>
 
@@ -344,19 +346,20 @@
 
 <!-- LeetCode Card -->
 <br/>
-<div align="center">
-  <img src="https://leetcard.jacoblin.cool/akshatsinha0?theme=dark&font=Nunito&ext=heatmap" alt="LeetCode Stats" width="70%"/>
-</div>
+<table width="100%">
+  <tr>
+    <td width="50%" align="center" valign="middle">
+      <img src="https://leetcard.jacoblin.cool/akshatsinha0?theme=dark&font=Nunito&ext=heatmap" alt="LeetCode Stats" width="95%"/>
+    </td>
+    <td width="50%" align="center" valign="middle">
+      <img src="https://readme-jokes.vercel.app/api?theme=dracula" alt="Jokes Card" width="95%"/>
+    </td>
+  </tr>
+</table>
 
 <!-- Dev Quote -->
-
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula&quote=The%20diguise%20of%20you%20lies%20before%20your%20own%20surmise" alt="Quote" width="100%"/>
-</div>
-
-<!-- Dev Joke -->
-<div align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=dracula" alt="Jokes Card" width="70%"/>
 </div>
 
 <hr/>
