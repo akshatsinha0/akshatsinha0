@@ -260,9 +260,24 @@
 
 <!-- Extra Metrics -->
 <details>
-  <summary><samp>Extra metrics</samp></summary>
+  <summary align="center">
+    <samp><strong>Canonical Satiricity &amp; Provenance Ledger</strong></samp>
+  </summary>
+  <br/>
   <div align="center">
-    <img src="https://metrics.lecoq.io/akshatsinha0?template=classic&base.header=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&notable=1&config.timezone=Asia%2FKolkata" alt="Metrics"/>
+    <p>
+      <img src="https://img.shields.io/badge/Source-lowlighter%20metrics-8A2BE2?style=flat" alt="Source: lowlighter metrics"/>
+      <img src="https://img.shields.io/badge/Mode-canonical%20profile%20trace-00E5FF?style=flat" alt="Mode: canonical profile trace"/>
+      <img src="https://img.shields.io/badge/Timezone-Asia%2FKolkata-4AB197?style=flat" alt="Timezone: Asia/Kolkata"/>
+    </p>
+    <sub>
+      <samp>
+        A satirical-but-sourced activity imprint: achievements, notable signals,
+        and profile provenance folded into one quiet card.
+      </samp>
+    </sub>
+    <br/><br/>
+    <img src="https://metrics.lecoq.io/akshatsinha0?template=classic&base.header=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&notable=1&config.timezone=Asia%2FKolkata" alt="Canonical satiricity and provenance metrics"/>
   </div>
 </details>
 
