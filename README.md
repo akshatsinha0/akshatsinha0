@@ -74,7 +74,8 @@
 </p>
 
 <!-- Now -->
-<h2><samp>Now</samp></h2>
+<br/>
+<h2 align="center"><samp>Now</samp></h2>
 
 <!-- Signals -->
 <p align="center">
@@ -92,7 +93,8 @@
 
 <!-- Tech Stack -->
 <a id="techs"></a>
-<h2><samp>Techs</samp></h2>
+<br/>
+<h2 align="center"><samp>Techs</samp></h2>
 <div align="center">
 
   <h3><samp><em>Programming</em></samp></h3>
@@ -163,10 +165,11 @@
 
 <!-- Highlight Projects -->
 <a id="projects"></a>
-<h2><samp>Projects</samp></h2>
+<br/>
+<h2 align="center"><samp>Projects</samp></h2>
 <table>
   <tr>
-    <td width="50%">
+    <td width="50%" valign="top">
       <h3 align="center"><samp>Chess Cheat Detection Engine</samp></h3>
       <a href="https://github.com/akshatsinha0/chess-cheat-detect" target="_blank" rel="noopener noreferrer">
         <img src="https://media.giphy.com/media/l0HlTy9x8FZo0XO1i/giphy.gif" alt="Chess Project" width="100%"/>
@@ -177,7 +180,7 @@
       </p>
       <p><samp>Real‑time chess cheat detection with Stockfish, OpenCV, and TensorFlow. Dockerized with MySQL.</samp></p>
     </td>
-    <td width="50%">
+    <td width="50%" valign="top">
       <h3 align="center"><samp>Takes Takes Takes – Chess Game Website</samp></h3>
       <a href="https://github.com/akshatsinha0/takestakestakes-chessified" target="_blank" rel="noopener noreferrer">
         <img src="https://media.giphy.com/media/sULKEgDMX8LcI/giphy.gif" alt="Chess Website" width="100%"/>
@@ -190,10 +193,10 @@
     </td>
   </tr>
   <tr>
-    <td width="50%">
+    <td colspan="2" align="center" valign="top">
       <h3 align="center"><samp>HereIAm – Real‑Time Chat Application</samp></h3>
       <a href="https://github.com/akshatsinha0/Imp-Here-I-Am" target="_blank" rel="noopener noreferrer">
-        <img src="https://media.giphy.com/media/Pa6mgXJmrAHbvenVV1/giphy.gif" alt="Chat App" width="100%"/>
+        <img src="https://media.giphy.com/media/Pa6mgXJmrAHbvenVV1/giphy.gif" alt="Chat App" width="60%"/>
       </a>
       <p align="center">
         <img src="https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=4AB197"/>
@@ -201,14 +204,14 @@
       </p>
       <p><samp>Responsive chat with private/group messaging using React+Node+WebSockets+MongoDB.</samp></p>
     </td>
-    <td width="50%"></td>
   </tr>
 </table>
 
 <!-- Pinned Repo Cards -->
+<br/>
 <table>
   <tr>
-    <td width="50%" align="center">
+    <td width="50%" align="center" valign="top">
       <a href="https://github.com/akshatsinha0/chess-cheat-detect">
         <strong><samp>chess-cheat-detect</samp></strong>
       </a>
@@ -216,7 +219,7 @@
       <img src="https://img.shields.io/badge/Focus-Chess%20Detection-8A2BE2?style=flat" alt="Focus: Chess Detection"/>
       <img src="https://img.shields.io/badge/Core-Python-3776AB?style=flat&logo=python&logoColor=white" alt="Core: Python"/>
     </td>
-    <td width="50%" align="center">
+    <td width="50%" align="center" valign="top">
       <a href="https://github.com/akshatsinha0/takestakestakes-chessified">
         <strong><samp>takestakestakes-chessified</samp></strong>
       </a>
@@ -229,13 +232,14 @@
 
 <!-- GitHub Stats -->
 <a id="github-stats"></a>
-<h2><samp>GitHub Stats</samp></h2>
+<br/>
+<h2 align="center"><samp>GitHub Stats</samp></h2>
 <div align="center">
   <img src="https://img.shields.io/github/followers/akshatsinha0?style=for-the-badge&logo=github&label=Followers&color=8A2BE2" alt="GitHub followers"/>
   <img src="https://img.shields.io/github/stars/akshatsinha0?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&logo=github&label=Stars&color=00E5FF" alt="GitHub stars"/>
   <img src="https://img.shields.io/badge/Profile-Active-4AB197?style=for-the-badge&logo=github" alt="Profile active"/>
   <br/><br/>
-  <img src="https://streak-stats.demolab.com?user=akshatsinha0&theme=radical&v=2" alt="Streak stats"/>
+  <img src="https://streak-stats.demolab.com?user=akshatsinha0&theme=radical&v=2" alt="Streak stats" width="100%"/>
 </div>
 
 <h3 align="center"><samp>Top Languages</samp></h3>
@@ -259,14 +263,16 @@
 
 <!-- Activity Overview -->
 <a id="activity-overview"></a>
-<h2><samp>Activity overview</samp></h2>
+<br/>
+<h2 align="center"><samp>Activity overview</samp></h2>
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akshatsinha0&theme=github_dark&title=GitHub%20Activity%20Overview" alt="GitHub Activity Overview"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akshatsinha0&theme=github_dark&title=GitHub%20Activity%20Overview" alt="GitHub Activity Overview" width="100%"/>
 </div>
 
 <!-- WakaTime -->
 <a id="wakatime"></a>
-<h2><samp>WakaTime</samp></h2>
+<br/>
+<h2 align="center"><samp>WakaTime</samp></h2>
 <div align="center">
   <a href="https://wakatime.com/@akshatsinha0" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/WakaTime-Open%20coding%20profile-00E5FF?style=for-the-badge&logo=wakatime&logoColor=white" alt="Open WakaTime coding profile"/>
@@ -274,13 +280,14 @@
 </div>
 
 <!-- Activity Graph -->
+<br/>
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=akshatsinha0&theme=react-dark&hide_border=true" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=akshatsinha0&theme=react-dark&hide_border=true" alt="Activity Graph" width="100%"/>
 </div>
 
 <!-- Activity breakdown -->
 <div align="center">
-  <img src="metrics.svg" alt="GitHub activity breakdown"/>
+  <img src="metrics.svg" alt="GitHub activity breakdown" width="100%"/>
 </div>
 
 <!-- Extra Metrics -->
@@ -302,27 +309,31 @@
       </samp>
     </sub>
     <br/><br/>
-    <img src="https://metrics.lecoq.io/akshatsinha0?template=classic&base.header=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&notable=1&config.timezone=Asia%2FKolkata" alt="Canonical satiricity and provenance metrics"/>
+    <img src="https://metrics.lecoq.io/akshatsinha0?template=classic&base.header=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&notable=1&config.timezone=Asia%2FKolkata" alt="Canonical satiricity and provenance metrics" width="100%"/>
   </div>
 </details>
 
 <!-- LeetCode Card -->
+<br/>
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/akshatsinha0?theme=dark&font=Nunito&ext=heatmap" alt="LeetCode Stats"/>
+  <img src="https://leetcard.jacoblin.cool/akshatsinha0?theme=dark&font=Nunito&ext=heatmap" alt="LeetCode Stats" width="70%"/>
 </div>
 
 <!-- Dev Quote -->
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula&quote=The%20diguise%20of%20you%20lies%20before%20your%20own%20surmise)
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula&quote=The%20diguise%20of%20you%20lies%20before%20your%20own%20surmise" alt="Quote" width="100%"/>
+</div>
 
 <!-- Dev Joke -->
 <div align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=dracula" alt="Jokes Card"/>
+  <img src="https://readme-jokes.vercel.app/api?theme=dracula" alt="Jokes Card" width="70%"/>
 </div>
 
 <!-- Contact -->
 <a id="basic-deeds"></a>
-<h2><samp>Basic deeds</samp></h2>
+<br/>
+<h2 align="center"><samp>Basic deeds</samp></h2>
 <div align="center">
   <a href="mailto:akshat.sinha2022@vitstudent.ac.in" title="Email"><img src="https://skillicons.dev/icons?i=gmail" height="36"/></a>
   <a href="https://www.linkedin.com/in/akshat-sinha-248805214" title="LinkedIn"><img src="https://skillicons.dev/icons?i=linkedin" height="36"/></a>
@@ -336,8 +347,10 @@
 </div>
 
 <!-- Snake -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg"/>
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg"/>
-</picture>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg"/>
+    <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" width="100%"/>
+  </picture>
+</p>
