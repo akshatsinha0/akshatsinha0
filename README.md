@@ -206,30 +206,55 @@
 </table>
 
 <!-- Pinned Repo Cards -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=akshatsinha0&repo=chess-cheat-detect&theme=radical" alt="Pinned: chess-cheat-detect"/>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=akshatsinha0&repo=takestakestakes-chessified&theme=radical" alt="Pinned: takestakestakes-chessified"/>
-</div>
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://github.com/akshatsinha0/chess-cheat-detect">
+        <strong><samp>chess-cheat-detect</samp></strong>
+      </a>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Focus-Chess%20Detection-8A2BE2?style=flat" alt="Focus: Chess Detection"/>
+      <img src="https://img.shields.io/badge/Core-Python-3776AB?style=flat&logo=python&logoColor=white" alt="Core: Python"/>
+    </td>
+    <td width="50%" align="center">
+      <a href="https://github.com/akshatsinha0/takestakestakes-chessified">
+        <strong><samp>takestakestakes-chessified</samp></strong>
+      </a>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Focus-Realtime%20Chess-00E5FF?style=flat" alt="Focus: Realtime Chess"/>
+      <img src="https://img.shields.io/badge/Core-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=111111" alt="Core: JavaScript"/>
+    </td>
+  </tr>
+</table>
 
 <!-- GitHub Stats -->
 <a id="github-stats"></a>
 <h2><samp>GitHub Stats</samp></h2>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akshatsinha0&show_icons=true&count_private=true&hide=issues&theme=radical" alt="GitHub stats"/>
-</div>
-<div align="center">
+  <img src="https://img.shields.io/github/followers/akshatsinha0?style=for-the-badge&logo=github&label=Followers&color=8A2BE2" alt="GitHub followers"/>
+  <img src="https://img.shields.io/github/stars/akshatsinha0?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&logo=github&label=Stars&color=00E5FF" alt="GitHub stars"/>
+  <img src="https://img.shields.io/badge/Profile-Active-4AB197?style=for-the-badge&logo=github" alt="Profile active"/>
+  <br/><br/>
   <img src="https://streak-stats.demolab.com?user=akshatsinha0&theme=radical&v=2" alt="Streak stats"/>
 </div>
+
+<h3 align="center"><samp>Top Languages</samp></h3>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshatsinha0&layout=compact&theme=radical" alt="Top languages"/>
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=111111" alt="C"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=111111" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React"/>
 </div>
 
 <!-- GitHub Trophies -->
 <h3 align="center"><samp>Trophies</samp></h3>
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank" rel="noopener noreferrer">
-    <img src="https://github-profile-trophy.vercel.app/?username=akshatsinha0&theme=dracula&column=8&margin-w=10&margin-h=10" alt="GitHub Trophies"/>
-  </a>
+  <img src="https://img.shields.io/badge/Open%20Source-Builder-FF69B4?style=flat" alt="Open Source Builder"/>
+  <img src="https://img.shields.io/badge/Systems-Explorer-8A2BE2?style=flat" alt="Systems Explorer"/>
+  <img src="https://img.shields.io/badge/Chess-Engineer-4AB197?style=flat" alt="Chess Engineer"/>
+  <img src="https://img.shields.io/badge/Profile-Canonical%20Trace-00E5FF?style=flat" alt="Canonical Trace"/>
 </div>
 
 <!-- Activity Overview -->
@@ -244,7 +269,7 @@
 <h2><samp>WakaTime</samp></h2>
 <div align="center">
   <a href="https://wakatime.com/@akshatsinha0" target="_blank" rel="noopener noreferrer">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=akshatsinha0&layout=compact&hide_title=true&theme=radical" alt="WakaTime Stats"/>
+    <img src="https://img.shields.io/badge/WakaTime-Open%20coding%20profile-00E5FF?style=for-the-badge&logo=wakatime&logoColor=white" alt="Open WakaTime coding profile"/>
   </a>
 </div>
 
@@ -261,7 +286,7 @@
 <!-- Extra Metrics -->
 <details>
   <summary align="center">
-    <samp><strong>Canonical Satiricity &amp; Provenance Ledger</strong></samp>
+    <samp><strong>Extra metrics</strong></samp>
   </summary>
   <br/>
   <div align="center">
