@@ -71,6 +71,21 @@
   </a>
 </p>
 
+<!-- Identity Console -->
+<br/>
+<h2 align="center"><samp>Identity console</samp></h2>
+<p align="center"><samp><code>akshat@github ~ $ ./render-self.sh</code></samp></p>
+<table width="100%">
+  <tr>
+    <td width="48%" align="center" valign="top">
+      <img src="akshat-ascii.svg" alt="Akshat Sinha rendered as animated ASCII terminal art" width="100%"/>
+    </td>
+    <td width="52%" align="center" valign="top">
+      <img src="identity-card.svg" alt="Akshat Sinha identity, systems, stack, and builds" width="100%"/>
+    </td>
+  </tr>
+</table>
+
 <hr/>
 
 <!-- Now -->
@@ -295,6 +310,9 @@
 <br/>
 <h2 align="center"><samp>Activity overview</samp></h2>
 <div align="center">
+  <p><samp><code>akshat@github ~ $ ./contributions.sh</code></samp></p>
+  <img src="contribution-grid.svg" alt="Akshat Sinha GitHub contribution graph, refreshed daily" width="100%"/>
+  <br/><br/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akshatsinha0&theme=github_dark&title=GitHub%20Activity%20Overview" alt="GitHub Activity Overview" width="100%"/>
 </div>
 
