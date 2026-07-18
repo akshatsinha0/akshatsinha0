@@ -39,6 +39,11 @@ INK = "#dbe7ff"
 CYAN = "#00e5ff"
 PURPLE = "#a371f7"
 
+DRAW_START = 0.45
+ROW_DUR = 0.18
+STAGGER = 0.18
+DRAW_TOTAL_SECONDS = DRAW_START + (ROWS - 1) * STAGGER + ROW_DUR
+
 
 def prepare(source: Path) -> Image.Image:
     image = Image.open(source).convert("RGB")
@@ -143,13 +148,21 @@ def render(rows: list[str], static: bool = False) -> str:
             parts.append(text)
             continue
 
-        delay = row_index * 0.075
+        delay = DRAW_START + row_index * STAGGER
         parts.append(
             f'<clipPath id="row-{row_index}"><rect x="{PAD}" y="{row_y:.1f}" height="{CELL_H:.1f}" width="0">'
             f'<animate attributeName="width" from="0" to="{ART_W:.1f}" begin="{delay:.3f}s" '
-            'dur="0.16s" fill="freeze"/></rect></clipPath>'
+            f'dur="{ROW_DUR:.2f}s" fill="freeze"/></rect></clipPath>'
         )
         parts.append(f'<g clip-path="url(#row-{row_index})">{text}</g>')
+        parts.append(
+            f'<rect id="draw-cursor-{row_index}" class="draw-cursor" x="{PAD}" y="{row_y + 1:.1f}" '
+            f'width="{CELL_W:.1f}" height="{CELL_H - 2:.1f}" fill="{CYAN}" opacity="0">'
+            f'<animate attributeName="x" from="{PAD}" to="{PAD + ART_W:.1f}" begin="{delay:.3f}s" '
+            f'dur="{ROW_DUR:.2f}s" fill="freeze"/>'
+            f'<set attributeName="opacity" to="0.95" begin="{delay:.3f}s"/>'
+            f'<set attributeName="opacity" to="0" begin="{delay + ROW_DUR:.3f}s"/></rect>'
+        )
 
     status_line = TITLEBAR_H + ART_H + 10
     status_y = status_line + 22
